@@ -1,0 +1,2362 @@
+Disease_UMLS,Disease_CUI,Symptom,Symptom_CUI
+"porfiria, acuta intermittente",C0162565,tachicardia,C0039239
+"porfiria, acuta intermittente",C0162565,dolore addominale,C0000737
+"porfiria, acuta intermittente",C0162565,perdita forza muscolare,C0235704
+"porfiria, acuta intermittente",C0162565,perdita sensibilità al dolore,C0030554
+"porfiria, acuta intermittente",C0162565,formicolio,C0030552
+"porfiria, acuta intermittente",C0162565,pressione alta,C0020538
+"porfiria, cutanea tarda",C0162566,aumento della pelosità,C0020555
+"porfiria, cutanea tarda",C0162566,vesciche,C0005758
+fibrillazione atriale,C0004238,palpitazioni,C0030252
+fibrillazione atriale,C0004238,battito accelerato,C1868917
+fibrillazione atriale,C0004238,polso irregolare,C0392684
+fibrillazione atriale,C0004238,vertigini,C0012833
+fibrillazione atriale,C0004238,paura,C0003467
+fibrillazione atriale,C0004238,mal di stomaco,C0857217
+fibrillazione atriale,C0004238,difficoltà nel respirare,C0013404
+fibrillazione atriale,C0004238,paura,C0003467
+fibrillazione atriale,C0004238,urine frequenti,C0032617
+fibrillazione atriale,C0004238,palpitazioni,C0030252
+fibrillazione atriale,C0004238,vertigini,C0012833
+fibrillazione atriale,C0004238,perdita di coscienza ,C0039070
+insufficienza cardiaca sinistra,C0023212,difficoltà nel respirare,C0013404
+insufficienza cardiaca sinistra,C0023212,difficoltà nel respirare,C0231807
+insufficienza cardiaca sinistra,C0023212,difficoltà nel respirare  e dormire da distesi,C0085619
+insufficienza cardiaca sinistra,C0023212,aumento della frequenza respiratoria,C0231835
+insufficienza cardiaca sinistra,C0023212,tosse notturna,C0231912
+insufficienza cardiaca sinistra,C0023212,reflusso,C1956414
+insufficienza cardiaca sinistra,C0023212,cianosi - colorito bluastro-violaceo di pelle,C0010520
+insufficienza cardiaca sinistra,C0023212,liquido nei polmoni,C0034063
+insufficienza cardiaca sinistra,C0023212,liquido nella cavità pleurica,C0032227
+insufficienza cardiaca sinistra,C0023212,liquido nei polmoni,C0034063
+insufficienza cardiaca sinistra,C0023212,riduzione del flusso ematico al cervello,C1695782
+insufficienza cardiaca sinistra,C0023212,"sonnolenza, anche diurna",C0920048
+insufficienza cardiaca sinistra,C0023212,confusione,C0009676
+insufficienza cardiaca sinistra,C0023212,debolezza,C3714552
+insufficienza cardiaca sinistra,C0023212,stanchezza - fatica,C0015672
+insufficienza cardiaca destra,C0235527,gonfiore alle gambe,C0235886
+insufficienza cardiaca destra,C0235527,fegato ingrossato,C0156195
+insufficienza cardiaca destra,C0235527,ittero - pelle giallastra,C0022346
+insufficienza cardiaca destra,C0235527,accumulo di liquido nell'addome,C0003962
+insufficienza cardiaca destra,C0235527,nausea,C0027497
+insufficienza cardiaca destra,C0235527,perdita di appetito,C0003123
+insufficienza cardiaca destra,C0235527,cianosi - colorito bluastro-violaceo di pelle,C0010520
+insufficienza cardiaca destra,C0235527,edema - accumulo di liquido,C0013604
+insufficienza cardiaca destra,C0235527,accumulo di liquido nell'addome,C0003962
+insufficienza cardiaca destra,C0235527,nausea e sazietà,C0038002
+insufficienza cardiaca destra,C0235527,liquido nella cavità pleurica,C0032227
+insufficienza cardiaca destra,C0235527,urine frequenti,C0028734
+insufficienza cardiaca,C0018801,difficoltà nel respirare  e dormire da distesi,C0085619
+insufficienza cardiaca,C0018801,reflusso,C1956414
+insufficienza cardiaca,C0018801,tosse notturna,C0231912
+insufficienza cardiaca,C0018801,liquido nei polmoni,C0034063
+insufficienza cardiaca,C0018801,cianosi - colorito bluastro-violaceo di pelle,C0010520
+insufficienza cardiaca,C0018801,stanchezza - fatica,C0015672
+insufficienza cardiaca,C0018801,debolezza,C3714552
+insufficienza cardiaca,C0018801,edema - accumulo di liquido,C0013604
+insufficienza cardiaca,C0018801,anemia - pallore,C0002871
+insufficienza cardiaca,C0018801,perdita di appetito,C0003123
+insufficienza cardiaca,C0018801,pancia gonfia,C1291077
+insufficienza cardiaca,C0018801,perdita di peso,C0006625
+insufficienza cardiaca,C0018801,urine schiumose,C0033687
+insufficienza cardiaca,C0018801,urine frequenti,C0028734
+insufficienza cardiaca,C0018801,tachicardia,C0039239
+insufficienza cardiaca,C0018801,"fiato corto, alterazione battiti del cuore",C0018800
+insufficienza cardiaca,C0018801,liquido nella cavità pleurica,C0032227
+cardiomiopatia ipertrofica,C0007194,stanchezza - fatica,C0015672
+cardiomiopatia ipertrofica,C0007194,palpitazioni,C0030252
+cardiomiopatia ipertrofica,C0007194,vertigini,C0012833
+cardiomiopatia ipertrofica,C0007194,difficoltà nel respirare,C0013404
+cardiomiopatia ipertrofica,C0007194,"dolore al torace, mancanza di ossigeno",C0002962
+cardiomiopatia restrittiva,C0007196,insufficienza cardiaca,C0018801
+cardiomiopatia restrittiva,C0007196,difficoltà nel respirare,C0013404
+cardiomiopatia restrittiva,C0007196,tachicardia,C0039239
+cardiomiopatia restrittiva,C0007196,edema - accumulo di liquido,C0013604
+cardiomiopatia restrittiva,C0007196,fegato ingrossato,C0267821
+cardiomiopatia dilatativa,C0007193,palpitazioni,C0030252
+dilatative cardiomiopatia dilatativa,C0007193,difficoltà nel respirare,C0231807
+dilatative cardiomiopatia dilatativa,C0007193,congestione polmonare,C0242073
+dilatative cardiomiopatia dilatativa,C0007193,liquido nei polmoni,C0034063
+dilatative cardiomiopatia dilatativa,C0007193,difficoltà nel respirare,C0013404
+dilatative cardiomiopatia dilatativa,C0007193,dita bluastre,C0235532
+dilatative cardiomiopatia dilatativa,C0007193,affaticamento e vertigini,C0026266
+emoglobinuria parossistica notturna,C0024790,urine marroni,C1142277
+emoglobinuria parossistica notturna,C0024790,mal di testa,C0018681
+emoglobinuria parossistica notturna,C0024790,pressione alta,C0020538
+emoglobinuria parossistica notturna,C0024790,anemia - pallore,C0030312
+emoglobinuria parossistica notturna,C0024790,emorragia,C0019080
+emoglobinuria parossistica notturna,C0024790,anemia - pallore,C0002871
+emoglobinuria parossistica notturna,C0024790,sangue nelle urine,C0018965
+emoglobinuria parossistica notturna,C0024790,"arrossamento, dolore e gonfiore alle gambe",C0398623
+emoglobinuria parossistica notturna,C0024790,difficoltà nel respirare,C0013404
+emoglobinuria parossistica notturna,C0024790,anemia - pallore,C0002871
+emoglobinuria parossistica notturna,C0024790,dolore al petto,C0008031
+emoglobinuria parossistica notturna,C0024790,nausea,C0027497
+emoglobinuria parossistica notturna,C0024790,difficoltà nel deglutire,C0011168
+emoglobinuria parossistica notturna,C0024790,disfunzione erettile,C0242350
+emoglobinuria parossistica notturna,C0024790,mal di schiena,C0004604
+emoglobinuria parossistica notturna,C0024790,mal di testa,C0018681
+emoglobinuria parossistica notturna,C0024790,dolore muscolare,C0231528
+anemia falciforme,C0037889,anemia - pallore,C0002871
+anemia falciforme,C0037889,difficoltà nel respirare,C0013404
+anemia falciforme,C0037889,tachicardia,C0039239
+anemia falciforme,C0037889,ittero - pelle giallastra,C0022346
+anemia falciforme,C0037889,nausea e sazietà,C0038002
+anemia falciforme,C0037889,"Ittero, feci chiare, urine scure (bilirubina)",C0741494
+anemia falciforme,C0037889,calcoli biliari,C0008350
+sindrome mielodisplastica,C1268964,anemia - pallore,C0002871
+sindrome mielodisplastica,C1268964,debolezza,C3714552
+sindrome mielodisplastica,C1268964,affaticamento,C0518656
+sindrome mielodisplastica,C1268964,lividi a chiazze,C0030232
+sindrome mielodisplastica,C1268964,"malessere generale, febbre, stanchezza, nausea e vomito",C0023530
+sindrome mielodisplastica,C1268964,numerosi puntini rossi sulla pelle,C0040034
+sindrome mielodisplastica,C1268964,fegato ingrossato,C0019214
+sarcoidosi,C0947845,febbre,C0015967
+sarcoidosi,C0947845,stanchezza - fatica,C0015672
+sarcoidosi,C0947845,perdita di appetito,C0003123
+sarcoidosi,C0947845,perdita di peso,C2363736
+sarcoidosi,C0947845,difficoltà nel respirare,C0013404
+sarcoidosi,C0947845,tosse,C0010200
+sarcoidosi,C0947845,dolori articolari,C0162323
+sindrome di loefgren,C0340164,febbre,C0015967
+sindrome di loefgren,C0340164,dolori articolari,C0162323
+sindrome di loefgren,C0340164,"arrossamento cutaneo, prurito",C0014743
+sindrome di loefgren,C0340164,ingrossamento dei linfonodi,C0456973
+sindrome di heerfordt,C0042171,febbre,C0015967
+sindrome di heerfordt,C0042171,infiammazione delle ghiandole salivari ,C0030583
+sindrome di heerfordt,C0042171,riduzione della vista,C0042164
+sindrome di heerfordt,C0042171,lacrimazione e dolore all'occhio,C0022073
+sindrome di heerfordt,C0042171,paralisi facciale,C0376175
+sarcoidosi acuta,C0947845,tosse secca,C0859870
+sarcoidosi acuta,C0947845,difficoltà nel respirare,C0231807
+sarcoidosi acuta,C0947845,lacrimazione e dolore all'occhio,C0022073
+sarcoidosi acuta,C0947845,"arrossamento cutaneo, prurito",C0014743
+sarcoidosi acuta,C0947845,ingrossamento dei linfonodi,C0497156
+sarcoidosi acuta,C0947845,"convulsioni, febbre alta",C0025309
+sarcoidosi acuta,C0947845,disturbi alla vista,C0547030
+sarcoidosi acuta,C0947845,riduzione della vista,C0030353
+sarcoidosi acuta,C0947845,difficoltà di concentrazione,C0020255
+sarcoidosi acuta,C0947845,insufficienza cardiaca,C0018801
+sarcoidosi acuta,C0947845,dolore al petto,C0031039
+sarcoidosi acuta,C0947845,valori alti calcio,C0553702
+sarcoidosi acuta,C0947845,dolori muscolari e articolari,C0034069
+sindrome antifosfolipidica,C0085278,aborto spontaneo,C0000786
+sindrome antifosfolipidica,C0085278,lividi a chiazze,C0857794
+sindrome antifosfolipidica,C0085278,perdita della vista di un solo occhio,C0149793
+microangiopatia trombotica,C0034155,stanchezza - fatica,C0015672
+microangiopatia trombotica,C0034155,febbre,C0015967
+microangiopatia trombotica,C0034155,numerosi puntini rossi sulla pelle,C0040034
+microangiopatia trombotica,C0034155,insufficienza renale,C0022660
+microangiopatia trombotica,C0034155,diminuzione delle urine,C0003460
+microangiopatia trombotica,C0034155,pressione alta,C0020538
+microangiopatia trombotica,C0034155,anemia - pallore,C0019054
+microangiopatia trombotica,C0034155,febbre,C0015967
+microangiopatia trombotica,C0034155,confusione,C0009676
+microangiopatia trombotica,C0034155,convulsioni,C0036572
+microangiopatia trombotica,C0034155,numerosi puntini rossi sulla pelle,C0040034
+microangiopatia trombotica,C0034155,anemia - pallore,C0019054
+ipersplenismo,C0020532,anemia - pallore,C0030312
+ipersplenismo,C0020532,lividi a chiazze,C0030232
+ipersplenismo,C0020532,affaticamento,C0015672
+ipersplenismo,C0020532,"malessere generale, febbre, stanchezza, nausea e vomito",C0023530
+ipersplenismo,C0020532,numerosi puntini rossi sulla pelle,C0040034
+liquido nella cavità pleurica,C0032227,difficoltà nel respirare,C1260922
+liquido nei polmoni,C0034063,difficoltà nel respirare,C0013404
+liquido nei polmoni,C0034063,tosse,C0010200
+liquido nei polmoni,C0034063,tachicardia,C0039239
+liquido nei polmoni,C0034063,cianosi - colorito bluastro-violaceo di pelle,C0010520
+liquido nei polmoni,C0034063,agitazione,C3887611
+pneumotorace,C0032326,difficoltà nel respirare,C0743323
+pneumotorace,C0032326,tosse,C0010200
+pneumotorace,C0032326,dolore al petto,C0030193
+asma cronico,C0877430,aumento della frequenza respiratoria,C0239324
+asma cronico,C0877430,tosse secca,C0850149
+asma cronico,C0877430,tosse cronica,C0010201
+asma cronico,C0877430,vampate di calore,C0013404
+asma cronico,C0877430,tachicardia,C0039239
+asma cronico,C0877430,difficoltà nel respirare,C0043144
+asma cronico,C0877430,tachicardia,C0039239
+asma cronico,C0877430,blocco della gamba destra,C0085615
+broncopneumopatia cronica ostruttiva,C0024117,tosse cronica,C0010201
+broncopneumopatia cronica ostruttiva,C0024117,difficoltà nel respirare,C0043144
+broncopneumopatia cronica ostruttiva,C0024117,aumento della frequenza respiratoria,C0239324
+polmonite,C0032285,febbre,C0015967
+polmonite,C0032285,difficoltà nel respirare,C0013404
+polmonite,C0032285,rumori respiratori,C0035508
+enfisema polmonare,C0034067,riduzione della massa muscolare,C0013990
+enfisema polmonare,C0034067,ostruzioni (feci e gas),C0028778
+enfisema polmonare,C0034067,affaticamento,C0034072
+enfisema polmonare,C0034067,difficoltà nel respirare,C0013404
+enfisema polmonare,C0034067,cianosi - colorito bluastro-violaceo di pelle,C0010520
+fibrosi polmonare,C0034069,difficoltà nel respirare,C0013404
+fibrosi polmonare,C0034069,ingrossamento dell'ultima falange,C0009080
+fibrosi polmonare,C0034069,aumento della frequenza respiratoria,C0231835
+fibrosi polmonare,C0034069,febbre,C0015967
+fibrosi polmonare,C0034069,tosse secca,C0859870
+embolia polmonare,C0034065,difficoltà nel respirare,C0743323
+embolia polmonare,C0034065,tachicardia,C0039239
+embolia polmonare,C0034065,difficoltà nel respirare,C0013404
+embolia polmonare,C0034065,dolore al petto,C0008031
+embolia polmonare,C0034065,paura,C0003467
+embolia polmonare,C0034065,difficoltà nel respirare,C0036974
+embolia polmonare,C0034065,perdita di coscienza ,C0039070
+embolia polmonare,C0034065,aumento della frequenza respiratoria,C0231835
+embolia polmonare,C0034065,tachicardia,C0039239
+embolia polmonare,C0034065,cianosi - colorito bluastro-violaceo di pelle,C0010520
+embolia polmonare,C0034065,tosse,C0010200
+embolia polmonare,C0034065,vertigini,C0012833
+embolia polmonare,C0034065,aumento della frequenza respiratoria,C0231835
+embolia polmonare,C0034065,dolore al petto,C0008031
+embolia polmonare,C0034065,tosse,C0010200
+embolia polmonare,C0034065,febbre,C0015967
+embolia polmonare,C0034065,tachicardia,C0039239
+embolia polmonare,C0034065,"vertigini, capogiri e confusione",C0020649
+bronchite acuta,C0149514,starnuti,C0035455
+bronchite acuta,C0149514,laringite,C0023067
+bronchite acuta,C0149514,faringite,C0031350
+bronchite acuta,C0149514,febbre,C0015967
+bronchite acuta,C0149514,stanchezza - fatica,C0015672
+bronchite acuta,C0149514,mal di testa,C0018681
+bronchite acuta,C0149514,tosse,C0010200
+bronchite acuta,C0149514,dolori muscolari e articolari,C0231528
+bronchiolite,C0006271,febbre,C0015967
+bronchiolite,C0006271,aumento della frequenza respiratoria,C0231835
+bronchiolite,C0006271,cianosi - colorito bluastro-violaceo di pelle,C0010520
+bronchiolite,C0006271,tosse,C0010200
+febbre di pontiac,C0343528,incapacità di percepire gli odori,C0009443
+febbre di pontiac,C0343528,tosse,C0010200
+febbre di pontiac,C0343528,mal di gola,C0242429
+febbre di pontiac,C0343528,febbre,C0015967
+febbre di pontiac,C0343528,confusione,C0009676
+febbre di pontiac,C0343528,vertigini,C0012833
+febbre di pontiac,C0343528,paura della luce,C0085636
+febbre di pontiac,C0343528,dolore muscolare,C0231528
+febbre di pontiac,C0343528,mal di testa,C0018681
+polmonite legionella,C0023241,brividi,C0032231
+polmonite legionella,C0023241,febbre,C0015967
+polmonite legionella,C0023241,starnuti,C0035455
+polmonite legionella,C0023241,laringite,C0023067
+polmonite legionella,C0023241,mal di testa,C0018681
+polmonite legionella,C0023241,confusione,C0009676
+polmonite legionella,C0023241,torpore,C0023380
+polmonite legionella,C0023241,diarrea,C0011991
+polmonite legionella,C0023241,tosse secca,C0850149
+polmonite atipica,C0857946,mal di testa,C0018681
+polmonite atipica,C0857946,febbre,C0015967
+polmonite atipica,C0857946,vampate di calore,C0013404
+polmonite atipica,C0857946,tosse secca,C0850149
+polmonite da pneumocisti,C1535939,tosse secca,C0850149
+polmonite da pneumocisti,C1535939,difficoltà nel respirare,C0231807
+tubercolosi,C0041296,perdita di peso,C2363736
+tubercolosi,C0041296,sudore notturno,C0028081
+tubercolosi,C0041296,stanchezza - fatica,C0015672
+tubercolosi,C0041296,difficoltà nel respirare,C0231807
+"tubercolosi, urogenitale",C0041333,difficoltà nell'urinare,C0013428
+"tubercolosi, urogenitale",C0041333,sangue nelle urine,C0018965
+"tubercolosi, urogenitale",C0041333,prostatite,C0033581
+"tubercolosi, urogenitale",C0041333,assenza del ciclo,C0002453
+"tubercolosi, urogenitale",C0041333,perdita di sangue uterino,C0025874
+"tubercolosi, urogenitale",C0041333,mestruazioni particolarmente abbondanti,C0025323
+micobatteriosi atipica,C1740806,sudore notturno,C0028081
+micobatteriosi atipica,C1740806,perdita di peso,C0043046
+micobatteriosi atipica,C1740806,diarrea,C0011991
+mixedema,C0027145,pelle secca,C0151908
+mixedema,C0027145,raucedine,C0019825
+mixedema,C0027145,difficoltà nel parlare,C1859270
+mixedema,C0027145,sensazione di svenimento,C0428977
+mixedema,C0027145,"fiato corto, alterazione battiti del cuore",C0018800
+"alveolite, esogena - allergica",C0002390,febbre,C0015967
+"alveolite, esogena - allergica",C0002390,tosse secca,C0859870
+"alveolite, esogena - allergica",C0002390,dolore alle braccia,C0023518
+"alveolite, esogena - allergica",C0002390,affaticamento,C0015672
+"alveolite, esogena - allergica",C0002390,stanchezza - fatica,C0015672
+"alveolite, esogena - allergica",C0002390,tosse,C0010200
+"alveolite, esogena - allergica",C0002390,difficoltà nel respirare,C0013404
+"alveolite, esogena - allergica",C0002390,cianosi - colorito bluastro-violaceo di pelle,C0010520
+"alveolite, esogena - allergica",C0002390,perdita di peso,C2363736
+"alveolite, esogena - allergica",C0002390,dolori muscolari e articolari,C0034069
+pertosse,C0043167,incapacità di percepire gli odori,C0009443
+pertosse,C0043167,febbre,C1096446
+pertosse,C0043167,aumento del numero di linfociti,C0024282
+pertosse,C0043167,tosse secca,C0859870
+pertosse,C0043167,vomito,C0042963
+gastrinoma,C0017150,diarrea,C0011991
+gastrinoma,C0017150,reflusso,C0014869
+gastrinoma,C0017150,dolore addominale,C0000737
+gastrinoma,C0017150,iperacidità di stomaco,C0541977
+gastrinoma,C0017150,dolore allo stomaco,C0497194
+gastrinoma,C0017150,diarrea,C0011991
+gastrinoma,C0017150,feci untuose,C0038238
+gastrite cronica,C0085695,nausea,C0027497
+gastrite cronica,C0085695,nausea e sazietà,C3714614
+malattia di Whipple,C0023788,dolore addominale,C0000737
+malattia di Whipple,C0023788,diarrea,C0011991
+malattia di Whipple,C0023788,feci untuose,C0038238
+malattia di Whipple,C0023788,dolori articolari,C0151435
+malattia di Whipple,C0023788,dolore ai glutei,C0574960
+malattia di Whipple,C0023788,febbre,C0015967
+malattia di Whipple,C0023788,dolori muscolari e articolari,C0151859
+malattia di Whipple,C0023788,ingrossamento dei linfonodi,C0497156
+malattia di Whipple,C0023788,incapacità nella coordinazione dell'equilibrio,C0004134
+malattia di Whipple,C0023788,atrite,C0003864
+malattia di Whipple,C0023788,pancia gonfia,C1291077
+malattia di Whipple,C0023788,perdita di peso,C2363736
+malattia di Whipple,C0023788,difficoltà nel respirare,C0231807
+malattia di Whipple,C0023788,tosse cronica,C0010201
+malattia di Whipple,C0023788,"dolore al torace, mancanza di ossigeno",C0002962
+malattia di Whipple,C0023788,anemia - pallore,C0014118
+malattia di Whipple,C0023788,mal di testa,C0018681
+malattia di Whipple,C0023788,affaticamento,C0085632
+malattia di Whipple,C0023788,parkinsonismo,C0242422
+malattia di Whipple,C0023788,difficoltà nel parlare,C0036665
+malattia di Whipple,C0023788,ronzio nelle orecchie,C0040264
+malattia di Whipple,C0023788,sporgenza degli occhi ,C0015397
+carenza di zinco,C0235950,diarrea,C0011991
+carenza di zinco,C0235950,perdita dei capelli,C0002170
+carenza di magnesio,C0024473,accentuazione dei riflessi,C0151889
+carenza di magnesio,C0024473,perdita della sensibilità,C0852415
+carenza di magnesio,C0024473,crampi,C0039621
+carenza di magnesio,C0024473,tachicardia,C0003811
+carenza di magnesio,C0024473,sensazione di un battito mancante o doppio,C0340464
+carenza di potassio,C0032827,sensazione di un battito mancante o doppio,C0340464
+carenza di potassio,C0032827,debolezza,C0151786
+carenza di potassio,C0032827,costipazione,C0009806
+carenza di potassio,C0032827,urine frequenti,C0032617
+carenza di potassio,C0032827,aumento dell'appetito,C0085602
+carenza di vitamina a,C0042842,cecità notturna,C0028077
+carenza di vitamina a,C0042842,pelle secca,C0151908
+carenza di vitamina a,C0042842,mucosa secca,C0854113
+morbo celiaco,C0007570,diarrea,C0011991
+morbo celiaco,C0007570,feci untuose,C0038238
+morbo celiaco,C0007570,flatulenza,C0016204
+morbo celiaco,C0007570,costipazione,C0009806
+morbo celiaco,C0007570,perdita di appetito,C0003123
+morbo celiaco,C0007570,perdita di peso,C2363736
+morbo celiaco,C0007570,suscettibilità alle infezioni,C0236171
+morbo celiaco,C0007570,edema - accumulo di liquido,C0013604
+morbo celiaco,C0007570,stomatite,C0038363
+morbo celiaco,C0007570,atrofia muscolare,C0026846
+morbo celiaco,C0007570,carenza di vitamina b12,C0042847
+morbo celiaco,C0007570,carenza di acido folico,C0016412
+morbo celiaco,C0007570,anemia - pallore,C0002888
+morbo celiaco,C0007570,carenza di vitamina k,C0042880
+morbo celiaco,C0007570,ecchimosi,C0013491
+morbo celiaco,C0007570,lividi a chiazze,C0030232
+morbo celiaco,C0007570,dolore anale,C0221245
+morbo celiaco,C0007570,formicolio attorno alla bocca,C0020598
+morbo celiaco,C0007570,crampi,C0039621
+morbo celiaco,C0007570,dolore alle ossa,C0151825
+morbo celiaco,C0007570,osteoporosi,C0029456
+morbo celiaco,C0007570,nausea,C0027497
+morbo celiaco,C0007570,epatite cronica,C0019189
+morbo celiaco,C0007570,dolori articolari,C0162323
+morbo celiaco,C0007570,dolore intestinale,C0011608
+morbo celiaco,C0007570,feci chiare,C3203595
+morbo celiaco,C0007570,eritemi,C0041834
+morbo celiaco,C0007570,epatite,C0019158
+morbo celiaco,C0007570,atrite,C0003864
+morbo celiaco,C0007570,carenza di vitamine,C1510471
+morbo celiaco,C0007570,anemia - pallore,C0162316
+morbo celiaco,C0007570,bruciore alla lingua,C0017672
+allergia al grano,C0949570,prurito,C0033774
+allergia al grano,C0949570,orticaria,C0042109
+allergia al grano,C0949570,"arrossamento cutaneo, prurito",C0011615
+allergia al grano,C0949570,vampate di calore,C0013404
+allergia al grano,C0949570,diarrea,C0011991
+allergia al grano,C0949570,nausea,C0027497
+allergia al grano,C0949570,vomito,C0042963
+allergia al grano,C0949570,convulsioni,C0026821
+allergia al grano,C0949570,flatulenza,C1291077
+acrodermatite enteropatica,C0221036,diarrea,C0401151
+malattia di menetrier,C0017155,diarrea,C0011991
+malattia di menetrier,C0017155,edema - accumulo di liquido,C0013604
+leucopenia,C0023530,stomatite,C0038362
+leucopenia,C0023530,gonfiore delle gengive,C0031099
+leucopenia,C0023530,sinusite,C0037199
+leucopenia,C0023530,dolore all'orecchio,C0029882
+leucopenia,C0023530,faringite,C0031350
+leucopenia,C0023530,polmonite,C0032285
+leucopenia,C0023530,foruncoli,C0242301
+leucopenia,C0023530,ingrossamento dei linfonodi,C0497156
+leucopenia,C0023530,febbre,C0015967
+morbo di cushing,C0221406,ematoma,C0018944
+morbo di cushing,C0221406,dolore al petto,C0020443
+morbo di cushing,C0221406,osteoporosi,C0029456
+morbo di cushing,C0221406,perdita forza muscolare,C0235704
+morbo di cushing,C0221406,virilismo,C0042755
+morbo di cushing,C0221406,affaticamento,C0020621
+morbo di cushing,C0221406,viso arrossato,C0332601
+morbo di cushing,C0221406,aumento di peso,C0311277
+morbo di cushing,C0221406,pressione alta,C0020538
+morbo di cushing,C0221406,disfunzione erettile,C0020619
+morbo di cushing,C0221406,debolezza nelle braccia,C0947912
+morbo di cushing,C0221406,aumento dei peli,C0019572
+morbo di cushing,C0221406,depressione,C0011570
+Iperkaliemia (alti livelli di potassio nel sangue),C0020461,debolezza nelle braccia,C0947912
+Iperkaliemia (alti livelli di potassio nel sangue),C0020461,perdita della sensibilità,C0852415
+cardiopatia coronarica,C0010068,"dolore al torace, mancanza di ossigeno",C0002962
+cardiopatia coronarica,C0010068,paura,C0003467
+osteoporosi,C0029456,scoliosi,C0022822
+osteoporosi,C0029456,fratture,C0016658
+osteoporosi,C0029456,mal di schiena,C0004604
+occlusione intestinale,C1258215,vomito,C0042963
+occlusione intestinale,C1258215,pancia gonfia,C1291077
+occlusione intestinale,C1258215,dolore addominale,C0000737
+cirrosi epatica,C0023890,affaticamento,C0015672
+cirrosi epatica,C0023890,stanchezza - fatica,C0015672
+cirrosi epatica,C0023890,sensazione di pressione,C0234222
+cirrosi epatica,C0023890,pancia gonfia,C1291077
+cirrosi epatica,C0023890,nausea,C0027497
+cirrosi epatica,C0023890,perdita di peso,C2363736
+cirrosi epatica,C0023890,perdita di libido,C2981158
+cirrosi epatica,C0023890,impotenza,C0242350
+cirrosi epatica,C0023890,atrofia testicolare,C0156312
+cirrosi epatica,C0023890,ginecomastia,C0018418
+cirrosi epatica,C0023890,assenza del ciclo,C0002453
+cirrosi epatica,C0023890,nausea e sazietà,C0038002
+cirrosi epatica,C0023890,accumulo di liquido nell'addome,C0003962
+cirrosi epatica,C0023890,alito cattivo,C0239571
+sindrome di guillain-barre,C0018378,difficoltà a gestire la temperatura,C0854171
+sindrome di guillain-barre,C0018378,frequenza cardiaca anormale,C1744601
+sindrome di horner,C0019937,restringimento della pupilla ,C0026205
+sindrome di horner,C0019937,abbassamento delle palpebre,C0033377
+sindrome di horner,C0019937,rientro del bulbo oculare,C0014306
+emicrania oculare,C0338481,disturbi alla vista,C0036454
+emicrania oculare,C0338481,vertigini,C0012833
+emicrania oculare,C0338481,dolore agli occhi,C0029089
+morbo di crohn,C0010346,dolore ai glutei,C0574960
+morbo di crohn,C0010346,lacrimazione e dolore all'occhio,C0014583
+morbo di crohn,C0010346,diminuzione della vista,C0022568
+morbo di crohn,C0010346,calcoli urinari,C0392525
+morbo di crohn,C0010346,anoressia,C0003123
+morbo di crohn,C0010346,febbre,C0015967
+morbo di crohn,C0010346,nausea,C0027497
+morbo di crohn,C0010346,vomito,C0042963
+morbo di crohn,C0010346,perdita di peso,C2363736
+morbo di crohn,C0010346,affaticamento,C0015672
+morbo di crohn,C0010346,flatulenza,C0016204
+morbo di crohn,C0010346,diarrea,C0011991
+morbo di crohn,C0010346,atrite,C0003864
+morbo di crohn,C0010346,foruncoli,C0042384
+morbo di crohn,C0010346,diminuzione delle urine,C0017658
+morbo di crohn,C0010346,fegato ingrossato,C0015695
+morbo di crohn,C0010346,fistole intestinali,C0079238
+morbo di crohn,C0010346,dolore anale,C0281778
+morbo di crohn,C0010346,anemia - pallore,C0002871
+morbo di crohn,C0010346,carenza di zinco,C0221036
+morbo di crohn,C0010346,dolori articolari,C0003862
+morbo di crohn,C0010346,riduzione della vista,C0042164
+morbo di crohn,C0010346,"arrossamento cutaneo, prurito",C0014743
+morbo di crohn,C0010346,ulcere cutenee,C0085652
+morbo di crohn,C0010346,stomatite,C0038362
+mieloma multiplo,C0026764,fratture,C0016663
+mieloma multiplo,C0026764,suscettibilità alle infezioni,C0236171
+mieloma multiplo,C0026764,perdita del tessuto osseo,C0221204
+mieloma multiplo,C0026764,osteoporosi,C0029456
+mieloma multiplo,C0026764,insufficienza renale,C1565489
+mieloma multiplo,C0026764,spasmi e crampi,C0152025
+mieloma multiplo,C0026764,affaticamento,C0015672
+mieloma multiplo,C0026764,difficoltà nel respirare,C0013404
+mieloma multiplo,C0026764,numerosi puntini rossi sulla pelle,C0040034
+mieloma multiplo,C0026764,"malessere generale, febbre, stanchezza, nausea e vomito",C0023530
+mieloma multiplo,C0026764,stitichezza,C0020437
+mieloma multiplo,C0026764,urine schiumose,C0033687
+mieloma multiplo,C0026764,dolore alle ossa,C0021038
+mieloma multiplo,C0026764,anemia - pallore,C0002871
+cancro del colon-retto,C1527249,perdita di peso,C2363736
+cancro del colon-retto,C1527249,febbre,C0015967
+cancro del colon-retto,C1527249,anemia sanguinante,C0948824
+cancro del colon-retto,C1527249,stanchezza - fatica,C0015672
+cancro del colon-retto,C1527249,affaticamento,C0015672
+cancro del colon-retto,C1527249,sangue nelle feci,C1321898
+cancro del colon-retto,C1527249,gonfiore addominale,C1258215
+cancro del colon-retto,C1527249,perdita di peso,C2363736
+cancro del colon-retto,C1527249,stanchezza - fatica,C0015672
+cancro del colon-retto,C1527249,lividi a chiazze,C0030232
+cancro del colon-retto,C1527249,anemia - pallore,C0002871
+miastenia grave,C0026896,dolore al petto,C0026848
+miastenia grave,C0026896,debolezza,C0151786
+miastenia grave,C0026896,scoliosi,C0036439
+miastenia grave,C0026896,abbassamento delle palpebre,C0033377
+miastenia grave,C0026896,diplopie,C0012569
+miastenia grave,C0026896,difficoltà nel deglutire,C0011168
+miastenia grave,C0026896,difficoltà nel muovere le labbra,C0013362
+miastenia grave,C0026896,difficoltà nel respirare,C0013404
+miastenia grave,C0026896,paralisi facciale,C0376175
+artrite reumatoide,C0003873,unghie fragili,C0546956
+artrite reumatoide,C0003873,eritema palmare,C0014745
+artrite reumatoide,C0003873,dolori articolari,C0162323
+artrite reumatoide,C0003873,atrofia muscolare,C0026846
+artrite reumatoide,C0003873,stanchezza - fatica,C0015672
+artrite reumatoide,C0003873,sudore notturno,C0028081
+anemia,C0002871,affaticamento,C0015672
+anemia,C0002871,mal di testa,C0018681
+anemia,C0002871,difficoltà nel respirare,C0231807
+anemia,C0002871,tachicardia,C0039239
+anemia,C0002871,vertigini,C0012833
+sincope,C0039070,perdita di coscienza,C0041657
+sincope,C0039070,vertigini,C0012833
+sincope,C0039070,lividi a chiazze,C0030232
+sclerosi multipla,C0026769,diminuzione della vista,C0029134
+sclerosi multipla,C0026769,formicolio,C0016579
+sclerosi multipla,C0026769,disturbi della sensibilità della pelle,C0012766
+sclerosi multipla,C0026769,incapacità nella coordinazione dell'equilibrio,C0004134
+sclerosi multipla,C0026769,dolore agli occhi,C0085582
+sclerosi multipla,C0026769,disturbi alla vista,C0029124
+sclerosi multipla,C0026769,paralisi facciale,C0271355
+sclerosi multipla,C0026769,sensibilità alla luce,C0028738
+sclerosi multipla,C0026769,depressione,C0011570
+sclerosi multipla,C0026769,difficoltà nel movimento,C0231687
+sclerosi multipla,C0026769,tremore,C0234376
+sclerosi multipla,C0026769,dolore al volto,C0040997
+sclerosi multipla,C0026769,disfunzione erettile,C0242350
+sclerosi multipla,C0026769,euforia,C0235146
+sclerosi multipla,C0026769,visione doppia,C0012569
+sclerosi multipla,C0026769,perdita della sensibilità,C0852415
+sclerosi multipla,C0026769,urine frequenti,C0085606
+sclerosi multipla,C0026769,ritenzione urinaria,C0080274
+Ipokaliemia (bassi livelli di potassio nel sangue),C0020621,paralisi e paresi,C1697844
+Ipokaliemia (bassi livelli di potassio nel sangue),C0020621,costipazione,C0009806
+Ipokaliemia (bassi livelli di potassio nel sangue),C0020621,affaticamento,C0035410
+insufficienza venosa cronica,C1306557,crampi notturni,C0042345
+insufficienza venosa cronica,C1306557,edema - accumulo di liquido,C0013604
+insufficienza venosa cronica,C1306557,perdita della sensibilità,C0852415
+insufficienza venosa cronica,C1306557,lividi a chiazze,C0034150
+insufficienza venosa cronica,C1306557,affaticamento,C0019114
+insufficienza venosa cronica,C1306557,macchie scure sulla pelle,C0162834
+insufficienza venosa cronica,C1306557,inspessimento della pelle,C0011644
+insufficienza venosa cronica,C1306557,dolore alle gambe,C0406500
+insufficienza venosa cronica,C1306557,dolore ai polpacci,C1306862
+insufficienza venosa cronica,C1306557,escoriazioni e lesioni,C0011620
+insufficienza venosa cronica,C1306557,prurito,C0033774
+insufficienza venosa cronica,C1306557,lividi a chiazze,C0030232
+insufficienza venosa cronica,C1306557,cianosi - colorito bluastro-violaceo di pelle,C0010520
+colelitiasi,C0008350,sensazione di pressione,C0234222
+colelitiasi,C0008350,nausea,C0027497
+colelitiasi,C0008350,vomito,C0042963
+colelitiasi,C0008350,nausea e sazietà,C3714614
+colelitiasi,C0008350,pancia gonfia,C1291077
+ipertiroidismo,C0020550,rigonfiamento del collo,C0018021
+ipertiroidismo,C0020550,irritabilità,C0022107
+ipertiroidismo,C0020550,insonnia,C0917801
+ipertiroidismo,C0020550,tachicardia,C0039239
+ipertiroidismo,C0020550,aumento dell'appetito,C0006370
+ipertiroidismo,C0020550,sudore,C0038990
+ipertiroidismo,C0020550,dolore al petto,C0026848
+ipertiroidismo,C0020550,osteoporosi,C0029456
+ipertiroidismo,C0020550,fegato ingrossato,C0015695
+ipertiroidismo,C0020550,sporgenza degli occhi ,C0015397
+ipertiroidismo,C0020550,agitazione,C3887611
+ipertiroidismo,C0020550,disturbi del sonno,C0851578
+ipertiroidismo,C0020550,tachicardia,C0003811
+ipertiroidismo,C0020550,tremore,C0040822
+ipertiroidismo,C0020550,perdita di peso,C2363736
+ipertiroidismo,C0020550,debolezza nelle braccia,C0947912
+ipertiroidismo,C0020550,diarrea,C0011991
+ipertiroidismo,C0020550,perdita dei capelli,C0002170
+ipertiroidismo,C0020550,agitazione,C3887611
+ipertiroidismo,C0020550,perdita di peso,C2363736
+ipertiroidismo,C0020550,pressione alta,C0020538
+ipertiroidismo,C0020550,diarrea,C0011991
+meningite,C0025289,dolore alle braccia,C0023518
+meningite,C0025289,vomito,C0042963
+meningite,C0025289,confusione,C0009676
+meningite,C0025289,febbre,C0015967
+meningite,C0025289,mal di testa,C0018681
+meningite,C0025289,nausea,C0027497
+meningite,C0025289,dolore al collo,C0151315
+meningite,C0025289,spasmi muscolari,C0151818
+meningite,C0025289,disturbi della coscienza,C0947927
+meningite,C0025289,affaticamento,C0085632
+meningite,C0025289,convulsioni,C0026821
+meningite,C0025289,riduzione della vista,C0030353
+meningite,C0025289,paura della luce,C0085636
+meningite,C0025289,numerosi puntini rossi sulla pelle,C0031256
+meningite,C0025289,mal di schiena,C0004604
+insufficienza renale cronica,C0022661,mal di testa,C0018681
+insufficienza renale cronica,C0022661,confusione,C0009676
+insufficienza renale cronica,C0022661,convulsioni,C0026821
+insufficienza renale cronica,C0022661,debolezza,C0020461
+insufficienza renale cronica,C0022661,liquido nei polmoni,C0034063
+insufficienza renale cronica,C0022661,alito cattivo,C0018520
+insufficienza renale cronica,C0022661,prurito,C0033774
+insufficienza renale cronica,C0022661,anemia - pallore,C0002871
+insufficienza renale cronica,C0022661,perdita di coscienza,C0041657
+insufficienza renale cronica,C0022661,edema - accumulo di liquido,C0013604
+sindrome nefrosica,C0027726,accumulo di liquido nell'addome,C0003962
+sindrome nefrosica,C0027726,suscettibilità alle infezioni,C0236171
+sindrome nefrosica,C0027726,pressione alta,C0020538
+sindrome nefrosica,C0027726,insufficienza renale,C1565489
+sindrome nefrosica,C0027726,disidratazione,C0151578
+sindrome nefrosica,C0027726,colesterolo alto,C1522133
+sindrome nefrosica,C0027726,trigliceridi alti,C0020557
+sindrome nefrosica,C0027726,dolore al petto,C0020443
+sindrome nefrosica,C0027726,urine torbide,C0392178
+sindrome nefrosica,C0027726,edema - accumulo di liquido,C0013604
+sindrome nefrosica,C0027726,urine schiumose,C0033687
+uremia,C0041948,sonnolenza,C0013144
+uremia,C0041948,amnesia,C0002622
+uremia,C0041948,perdita di coscienza,C1737242
+uremia,C0041948,singhiozzo,C0019521
+uremia,C0041948,edema cerebrale,C0006114
+uremia,C0041948,perdita della vista di un solo occhio,C0376288
+uremia,C0041948,movimento involontario di un occhio,C0002418
+uremia,C0041948,anoressia,C0003123
+uremia,C0041948,accumulo di liquido nell'addome,C0003962
+uremia,C0041948,gastrite,C0017152
+uremia,C0041948,dolore allo stomaco,C0038358
+uremia,C0041948,disturbi dell'umore,C0494305
+uremia,C0041948,assenza del ciclo,C0002453
+uremia,C0041948,impotenza,C0242350
+uremia,C0041948,anemia - pallore,C0002871
+uremia,C0041948,suscettibilità alle infezioni,C0236171
+uremia,C0041948,dolore alle braccia,C0031046
+uremia,C0041948,affaticamento,C2721728
+uremia,C0041948,pressione alta,C0020538
+uremia,C0041948,liquido nei polmoni,C0034063
+uremia,C0041948,brividi,C0032231
+uremia,C0041948,prurito,C0033774
+uremia,C0041948,perdita di peso,C0002726
+ipotiroidismo,C0020676,affaticamento,C0015672
+ipotiroidismo,C0020676,riduzione dei movimenti,C0424230
+ipotiroidismo,C0020676,lividi a chiazze,C0030232
+ipotiroidismo,C0020676,aumento di peso,C0043094
+ipotiroidismo,C0020676,"fiato corto, alterazione battiti del cuore",C0018800
+ipotiroidismo,C0020676,dolore al petto,C0026848
+ipotiroidismo,C0020676,infertilità,C0021359
+ipotiroidismo,C0020676,depressione,C0011570
+ipotiroidismo,C0020676,abbassamento della temperatura corporea,C0020672
+ipotiroidismo,C0020676,difficoltà nel respirare,C3203358
+ipotiroidismo,C0020676,"vertigini, capogiri e confusione",C0020649
+ipotiroidismo,C0020676,stanchezza - fatica,C0015672
+ipotiroidismo,C0020676,pelle secca,C0151908
+ipotiroidismo,C0020676,perdita dei capelli,C0002170
+ipotiroidismo,C0020676,sensazione di svenimento,C0428977
+ipotiroidismo,C0020676,inspessimento della pelle,C0027145
+ipotiroidismo,C0020676,costipazione,C0009806
+ipotiroidismo,C0020676,disturbi del metabolismo dei grassi,C0154251
+tubercolosi,C0041296,tosse,C0010200
+tubercolosi,C0041296,ingrossamento dei linfonodi,C0497156
+tubercolosi,C0041296,febbre,C0015967
+tubercolosi,C0041296,sudore notturno,C0028081
+tubercolosi,C0041296,perdita di peso,C2363736
+tubercolosi,C0041296,stanchezza - fatica,C0015672
+tubercolosi,C0041296,difficoltà nel respirare,C0231807
+addome acuto,C0235295,nausea,C0027497
+addome acuto,C0235295,coliche,C0232488
+addome acuto,C0235295,vomito,C0042963
+ipertensione polmonare,C0020542,tachicardia,C0039239
+ipertensione polmonare,C0020542,vertigini,C0012833
+ipertensione polmonare,C0020542,fegato ingrossato,C0156195
+ipertensione polmonare,C0020542,difficoltà nel respirare,C0013404
+ipertensione polmonare,C0020542,tosse,C0010200
+ipertensione polmonare,C0020542,"dolore al torace, mancanza di ossigeno",C0002962
+ipertensione polmonare,C0020542,affaticamento,C0015672
+ipertensione polmonare,C0020542,edema - accumulo di liquido,C0013604
+ipertensione polmonare,C0020542,cianosi - colorito bluastro-violaceo di pelle,C0010520
+granulomatosi con poliangioite,C3495801,sinusite,C0037199
+granulomatosi con poliangioite,C3495801,dolore all'orecchio,C0029877
+granulomatosi con poliangioite,C3495801,dolore alla mascella,C0024904
+granulomatosi con poliangioite,C3495801,lacrimazione e dolore all'occhio,C0014583
+granulomatosi con poliangioite,C3495801,dolori articolari,C0003862
+granulomatosi con poliangioite,C3495801,formicolio,C0031117
+granulomatosi con poliangioite,C3495801,febbre,C0015967
+granulomatosi con poliangioite,C3495801,perdita di peso,C2363736
+granulomatosi con poliangioite,C3495801,sudore notturno,C0028081
+granulomatosi con poliangioite,C3495801,starnuti,C0035455
+granulomatosi con poliangioite,C3495801,dolore allo stomaco,C2609241
+granulomatosi con poliangioite,C3495801,foruncoli,C0042384
+ipoglicemia,C0020615,tremori,C0542247
+ipoglicemia,C0020615,sudore,C0038990
+ipoglicemia,C0020615,palpitazioni,C0030252
+ipoglicemia,C0020615,tachicardia,C0039239
+ipoglicemia,C0020615,aumento dell'appetito,C0006370
+ipoglicemia,C0020615,lividi a chiazze,C0030232
+ipoglicemia,C0020615,nausea,C0027497
+ipoglicemia,C0020615,vomito,C0042963
+ipoglicemia,C0020615,debolezza,C3714552
+ipoglicemia,C0020615,agitazione,C3887611
+ipoglicemia,C0020615,sudore,C0038990
+ipoglicemia,C0020615,tachicardia,C0039239
+ipoglicemia,C0020615,tremore,C0040822
+ipoglicemia,C0020615,dilatazione delle pupille,C0026961
+ipoglicemia,C0020615,pressione alta,C0020538
+ipoglicemia,C0020615,aumento della frequenza respiratoria,C0231835
+ipoglicemia,C0020615,mal di testa,C0018681
+ipoglicemia,C0020615,carcinoma endocrino,C1704374
+ipoglicemia,C0020615,irritabilità,C0022107
+ipoglicemia,C0020615,smorfie,C0239779
+ipoglicemia,C0020615,visione doppia,C0012569
+ipoglicemia,C0020615,sonnolenza,C0013144
+depressione,C0011570,perdita di appetito,C0013415
+depressione,C0011570,umore depresso,C0011570
+depressione,C0011570,affaticamento,C0015672
+ascite,C0003962,pancia gonfia,C1291077
+feocromocitoma,C0031511,pressione alta,C0020538
+feocromocitoma,C0031511,mal di testa,C0018681
+feocromocitoma,C0031511,sudore,C0038990
+feocromocitoma,C0031511,palpitazioni,C0030252
+feocromocitoma,C0031511,tremore,C0040822
+feocromocitoma,C0031511,agitazione,C3887611
+feocromocitoma,C0031511,dolore addominale,C0000737
+feocromocitoma,C0031511,lividi a chiazze,C0030232
+feocromocitoma,C0031511,dolore alle braccia,C0023518
+feocromocitoma,C0031511,perdita di peso,C2363736
+feocromocitoma,C0031511,aumento dell'appetito,C0342952
+feocromocitoma,C0031511,mani fredde,C0042396
+feocromocitoma,C0031511,tachicardia,C0039239
+feocromocitoma,C0031511,difficoltà di concentrazione,C0596624
+itterizia,C0022346,cirrosi epatica,C0023890
+itterizia,C0022346,epatite,C0019158
+glomerulonefrite,C0017658,sindrome nefrosica,C0027726
+glomerulonefrite,C0017658,urine schiumose,C0033687
+glomerulonefrite,C0017658,edema - accumulo di liquido,C0013604
+glomerulonefrite,C0017658,affaticamento,C0020476
+glomerulonefrite,C0017658,pressione alta,C0020538
+ipotensione,C0020649,vertigini,C0012833
+ipotensione,C0020649,debolezza,C3203485
+ipotensione,C0020649,tachicardia,C0039239
+ipotensione,C0020649,mal di testa,C0018681
+ipotensione,C0020649,lividi a chiazze,C0030232
+ipotensione,C0020649,tremore,C0040822
+dissezione aortica,C0340643,tachicardia,C0038454
+dissezione aortica,C0340643,diminuzione delle urine,C0003460
+dissezione aortica,C0340643,dolore al petto,C0008031
+dissezione aortica,C0340643,"dolore al torace, mancanza di ossigeno",C0002962
+dissezione aortica,C0340643,mal di schiena,C0004604
+dissezione aortica,C0340643,paura,C0235106
+dissezione aortica,C0340643,agitazione,C0007177
+dissezione aortica,C0340643,difficoltà nel respirare,C0036974
+tonsillite,C0040425,alito cattivo,C0018520
+tonsillite,C0040425,ingrossamento dei linfonodi,C0497156
+herpes zoster,C0854330,vescicole,C1622418
+herpes zoster,C0854330,numerosi puntini rossi sulla pelle,C0022504
+iperplasia prostatica benigna,C1704272,dolore e bruciore mentre si urina,C0042023
+iperplasia prostatica benigna,C1704272,urine frequenti,C0028734
+carcinoma pancreatico,C0235974,perdita di peso,C2363736
+carcinoma pancreatico,C0235974,mal di schiena,C0004604
+carcinoma pancreatico,C0235974,ittero - pelle giallastra,C0022346
+carcinoma pancreatico,C0235974,dolore lungo le vene,C0152250
+carcinoma pancreatico,C0235974,nausea,C0027497
+carcinoma pancreatico,C0235974,urine marroni,C1142277
+carcinoma pancreatico,C0235974,prurito,C0033774
+carcinoma pancreatico,C0235974,diarrea,C0011991
+carcinoma pancreatico,C0235974,feci untuose,C0038238
+carcinoma pancreatico,C0235974,perdita di appetito,C0003123
+carcinoma pancreatico,C0235974,nausea e sazietà,C3714614
+carcinoma pancreatico,C0235974,pancia gonfia,C1291077
+carcinoma pancreatico,C0235974,sensazione di sete,C0271650
+carcinoma pancreatico,C0235974,diarrea,C0011991
+carcinoma pancreatico,C0235974,feci untuose,C0038238
+carcinoma pancreatico,C0235974,perdita di peso,C2363736
+carcinoma pancreatico,C0235974,dolore addominale,C0000737
+carcinoma pancreatico,C0235974,prurito,C0033774
+carcinoma pancreatico,C0235974,mal di schiena,C0004604
+diabete insipido,C0011848,urine frequenti,C0032617
+diabete insipido,C0011848,aumento dell'appetito,C0085602
+ipercalcemia,C0020437,nausea,C0027497
+ipercalcemia,C0020437,vomito,C0042963
+ipercalcemia,C0020437,costipazione,C0009806
+ipercalcemia,C0020437,calcoli urinari,C0392525
+ipercalcemia,C0020437,sangue nelle urine,C0027709
+ipercalcemia,C0020437,urine frequenti,C0032617
+ipercalcemia,C0020437,aumento dell'appetito,C0085602
+ipercalcemia,C0020437,sonnolenza,C0013144
+ipercalcemia,C0020437,coma,C0009421
+febbre ghiandolare,C0021345,febbre,C0015967
+febbre ghiandolare,C0021345,alito cattivo,C0018520
+febbre ghiandolare,C0021345,faringite,C0031350
+febbre ghiandolare,C0021345,ingrossamento dei linfonodi,C0497156
+febbre ghiandolare,C0021345,dolore durante la deglutizione,C0031157
+anemia da carenza di ferro,C0162316,prurito,C0033774
+anemia da carenza di ferro,C0162316,agitazione,C3887611
+anemia da carenza di ferro,C0162316,difficoltà nel respirare,C0013404
+anemia da carenza di ferro,C0162316,debolezza,C3714552
+anemia da carenza di ferro,C0162316,mal di testa,C0018681
+anemia da carenza di ferro,C0162316,tachicardia,C0039239
+anemia da carenza di ferro,C0162316,difficoltà nel respirare,C0231807
+anemia da carenza di ferro,C0162316,affaticamento,C0015672
+anemia da carenza di ferro,C0162316,ronzio nelle orecchie,C0040264
+anemia da carenza di ferro,C0162316,stanchezza - fatica,C0015672
+anemia da carenza di ferro,C0162316,vertigini,C0012833
+anemia da carenza di ferro,C0162316,palpitazioni,C0030252
+anemia da carenza di ferro,C0162316,disturbi del sonno,C0851578
+anemia da carenza di ferro,C0162316,mal di testa,C0018681
+morbo di hodgkin,C0852445,prurito,C0033774
+morbo di hodgkin,C0852445,nausea e sazietà,C0038002
+morbo di hodgkin,C0852445,fegato ingrossato,C0019209
+morbo di hodgkin,C0852445,febbre,C0015967
+morbo di hodgkin,C0852445,sudore notturno,C0028081
+morbo di hodgkin,C0852445,perdita di peso,C2363736
+morbo di hodgkin,C0852445,stanchezza - fatica,C0015672
+morbo di hodgkin,C0852445,ingrossamento dei linfonodi,C0497156
+morbo di reiter,C0035012,dolori articolari,C0085435
+morbo di reiter,C0035012,dolore e bruciore mentre si urina,C0041976
+morbo di reiter,C0035012,atrite,C0003864
+morbo di reiter,C0035012,congiuntivite,C0009763
+shock,C0036974,cianosi - colorito bluastro-violaceo di pelle,C0010520
+shock,C0036974,diminuzione delle urine,C0028961
+shock,C0036974,aumento della frequenza respiratoria,C0231835
+fibrosi cistica,C0010674,tosse,C0010200
+fibrosi cistica,C0010674,riduzione della massa muscolare,C0013990
+fibrosi cistica,C0010674,carenza di vitamine,C0030293
+fibrosi cistica,C0010674,diarrea,C0011991
+fibrosi cistica,C0010674,perdita di peso,C0006625
+fibrosi cistica,C0010674,cirrosi,C1623038
+fibrosi cistica,C0010674,colelitiasi,C0008350
+fibrosi cistica,C0010674,infertilità,C0021359
+fibrosi cistica,C0010674,vomito,C2939175
+fibrosi cistica,C0010674,ostruzioni (feci e gas),C0028778
+endocardite,C0014118,febbre,C0015967
+endocardite,C0014118,difficoltà nel respirare,C0018808
+endocardite,C0014118,anoressia,C0003123
+endocardite,C0014118,sangue nelle urine,C0018965
+sindrome di raynaud,C0034734,lividi a chiazze,C0030232
+sindrome di raynaud,C0034734,disturbi alla vista,C0022116
+sindrome di raynaud,C0034734,cianosi - colorito bluastro-violaceo di pelle,C0010520
+sindrome di raynaud,C0034734,dolore al petto,C0030193
+schizofrenia,C0036341,delirio,C0022492
+schizofrenia,C0036341,follia,C0233682
+schizofrenia,C0036341,paranoia,C0233687
+schizofrenia,C0036341,euforia,C0235146
+schizofrenia,C0036341,ambivalenza affettiva,C4049320
+schizofrenia,C0036341,autismo,C0004352
+schizofrenia,C0036341,disturbo della personalità,C0011551
+schizofrenia,C0036341,allucinazioni,C0018524
+schizofrenia,C0036341,stato catatonico,C0007398
+emorragia subaracnoidea,C0038525,mal di testa,C0025287
+emorragia subaracnoidea,C0038525,disturbi della coscienza,C0947927
+emorragia subaracnoidea,C0038525,vomito,C0042963
+emorragia subaracnoidea,C0038525,"vertigini, capogiri e confusione",C0020649
+epatite alcolica,C0019180,dolore addominale,
+epatite alcolica,C0019181,febbre,
+epatite alcolica,C0019182,perdita dell’appetito,
+epatite alcolica,C0019183,nausea,
+epatite alcolica,C0019184,vomito,
+epatite alcolica,C0019185,debolezza,
+epatite alcolica,C0019186,ittero - pelle giallastra,
+epatite alcolica,C0019187,fegato ingrossato,C0015695
+policitemia,C0032461,debolezza,C1527405
+policitemia,C0032461,"arrossamento cutaneo, prurito",C0041834
+policitemia,C0032461,prurito,C0033774
+policitemia,C0032461,dolore lungo le vene,C0014804
+policitemia,C0032461,vertigini,C0012833
+policitemia,C0032461,mal di testa,C0018681
+policitemia,C0032461,affaticamento,C0015672
+policitemia,C0032461,sangue dal naso,C0014591
+policitemia,C0032461,disturbi alla vista,C0547030
+policitemia,C0032461,pressione alta,C0020538
+morbo di behcet,C0004943,"arrossamento cutaneo, prurito",C0014743
+morbo di behcet,C0004943,foruncoli,C0042384
+morbo di behcet,C0004943,intolleranza alla luce,C0042165
+morbo di behcet,C0004943,dolore agli occhi,C0042167
+morbo di behcet,C0004943,atrite,C0003864
+morbo di behcet,C0004943,ulcera,C0157738
+morbo di behcet,C0004943,foruncoli,C0042384
+morbo di behcet,C0004943,stomatite,C0038363
+morbo di behcet,C0004943,riduzione della vista,C0042164
+delirio,C0011206,disturbi della coscienza,C0947927
+delirio,C0011206,incrocia le gambe senza sosta,C0392156
+delirio,C0011206,agitazione,C0085631
+delirio,C0011206,allucinazioni,C0018524
+delirio,C0011206,tremore,C0040822
+delirio,C0011206,pressione alta,C0020538
+delirio,C0011206,tachicardia,C0039239
+delirio,C0011206,febbre,C0015967
+sindrome ortostatica,C0020651,"vertigini, capogiri e confusione",C0020649
+sindrome ortostatica,C0020651,vertigini,C0012833
+sindrome ortostatica,C0020651,disturbi della coscienza,C0947927
+dermatomiosite,C0011633,brividi,C0027121
+dermatomiosite,C0011633,febbre,C0015967
+dermatomiosite,C0011633,debolezza alle gambe,C0011633
+dermatomiosite,C0011633,difficoltà nel deglutire,C0011168
+dermatomiosite,C0011633,alito cattivo,C0549493
+dermatomiosite,C0011633,dolori muscolari e articolari,C0034069
+dermatomiosite,C0011633,atrite,C0003864
+dermatomiosite,C0011633,dolore alle braccia,C0023518
+dermatomiosite,C0011633,prurito,C0041834
+dermatomiosite,C0011633,lividi,C0085642
+dermatomiosite,C0011633,atrofia muscolare,C0026846
+dermatomiosite,C0011633,depositi sottocutanei,C0006664
+sichelzellanaemie,C0002895,sonnolenza,C0242184
+sichelzellanaemie,C0002895,disidratazione,C0011175
+sichelzellanaemie,C0002895,nausea,C0001122
+sichelzellanaemie,C0002895,anemia - pallore,C0019054
+emocromatosi,C0018995,disfunzione erettile,C0020619
+emocromatosi,C0018995,dolori articolari,C0003862
+emocromatosi,C0018995,cirrosi epatica,C0023890
+emocromatosi,C0018995,atrosi,C0033802
+emocromatosi,C0018995,infertilità,C0021359
+"encefalopatia, epatica",C0019151,confusione,C0009676
+"encefalopatia, epatica",C0019151,sonnolenza,C0013144
+"encefalopatia, epatica",C0019151,riduzione dei movimenti,C0424230
+"encefalopatia, epatica",C0019151,disturbi del sonno,C0851578
+"encefalopatia, epatica",C0019151,affaticamento,C0085632
+"encefalopatia, epatica",C0019151,alito cattivo,C0239571
+"encefalopatia, epatica",C0019151,tremore,C0040822
+"encefalopatia, epatica",C0019151,sonnolenza,C0013144
+amiloidosi,C0002726,urine schiumose,C0033687
+amiloidosi,C0002726,edema - accumulo di liquido,C0013604
+amiloidosi,C0002726,formicolio,C0031117
+amiloidosi,C0002726,fegato ingrossato,C0019209
+amiloidosi,C0002726,ingrossamento della lingua,C0009677
+amiloidosi,C0002726,dolori articolari,C0003862
+amiloidosi,C0002726,perdita dei capelli,C0002170
+sindrome da distress respiratorio acuto,C0035222,palpitazioni,C0020578
+sindrome da distress respiratorio acuto,C0035222,aumento della frequenza respiratoria,C0002064
+sindrome da distress respiratorio acuto,C0035222,vampate di calore,C0013404
+sindrome da distress respiratorio acuto,C0035222,insufficienza respiratoria,C0035229
+sindrome da distress respiratorio acuto,C0035222,"arrossamento cutaneo, prurito",C0020440
+sindrome da distress respiratorio acuto,C0035222,sonnolenza,C0001127
+sindrome da distress respiratorio acuto,C0035222,aumento della frequenza respiratoria,C0231835
+sindrome da distress respiratorio acuto,C0035222,difficoltà nel respirare,C0013404
+sindrome da distress respiratorio acuto,C0035222,cianosi - colorito bluastro-violaceo di pelle,C0010520
+sindrome da distress respiratorio acuto,C0035222,agitazione,C3887611
+sindrome da distress respiratorio acuto,C0035222,confusione,C0009676
+cardiopatia ipertensiva,C1144799,mal di testa,C0018681
+cardiopatia ipertensiva,C1144799,vertigini,C0012833
+cardiopatia ipertensiva,C1144799,sangue dal naso,C0014591
+cardiopatia ipertensiva,C1144799,disturbi alla vista,C0547030
+cardiopatia ipertensiva,C1144799,confusione,C0009676
+cardiopatia ipertensiva,C1144799,difficoltà nel respirare,C0013404
+cardiopatia ipertensiva,C1144799,"dolore al torace, mancanza di ossigeno",C0002962
+cardiopatia ipertensiva,C1144799,diminuzione delle urine,C0028961
+essiccosi,C0011175,agitazione,C0085631
+essiccosi,C0011175,sonnolenza,C0013144
+essiccosi,C0011175,diminuzione delle urine,C0028961
+essiccosi,C0011175,"vertigini, capogiri e confusione",C0020649
+Iperaldosteronismo primario ,C1384514,pressione alta,C0020538
+Iperaldosteronismo primario ,C1384514,affaticamento,C0020621
+Iperaldosteronismo primario ,C1384514,vomito,C0220983
+Iperaldosteronismo primario ,C1384514,pressione alta,C0020538
+Iperaldosteronismo primario ,C1384514,affaticamento,C0020621
+affaticamento,C0034072,difficoltà nel respirare,C0231807
+affaticamento,C0034072,tachicardia,C0039239
+affaticamento,C0034072,vertigini,C0012833
+affaticamento,C0034072,"dolore al torace, mancanza di ossigeno",C0002962
+reflusso gastroesofageo,C0017168,sensazione di pressione,C0234222
+reflusso gastroesofageo,C0017168,pancia gonfia,C1291077
+reflusso gastroesofageo,C0017168,flatulenza,C0016204
+reflusso gastroesofageo,C0017168,difficoltà nel deglutire,C0011168
+reflusso gastroesofageo,C0017168,rigurgito,C2004489
+reflusso gastroesofageo,C0017168,nausea,C0027497
+reflusso gastroesofageo,C0017168,vomito,C0042963
+reflusso gastroesofageo,C0017168,bruciore di stomaco,C0018834
+reflusso gastroesofageo,C0017168,"dolore al torace, mancanza di ossigeno",C0002962
+reflusso gastroesofageo,C0017168,dolore al petto,C0030193
+reflusso gastroesofageo,C0017168,sensazione di pressione,C0234222
+reflusso gastroesofageo,C0017168,rigurgito,C2004489
+psoriasi,C0033860,retinoide,C0035339
+psoriasi,C0033860,gonfiore delle dita,C0239161
+sindrome mielodisplastica,C1268964,anemia - pallore,C0010828
+sindrome mielodisplastica,C1268964,anemia - pallore,C0002871
+sindrome mielodisplastica,C1268964,suscettibilità alle infezioni,C0236171
+sindrome mielodisplastica,C1268964,febbre,C0015967
+sindrome mielodisplastica,C1268964,sanguinamento,C0019087
+sindrome mielodisplastica,C1268964,nausea e sazietà,C0038002
+sindrome mielodisplastica,C1268964,fegato ingrossato,C0019209
+sindrome mielodisplastica,C1268964,rigonfiamento del collo,C0947757
+sindrome mielodisplastica,C1268964,anemia - pallore,C0030312
+sindrome mielodisplastica,C1268964,brividi,C0858867
+sindrome mielodisplastica,C1268964,dolore alle braccia,C0023518
+sindrome mielodisplastica,C1268964,numerosi puntini rossi sulla pelle,C0040034
+sindrome mielodisplastica,C1268964,"malessere generale, febbre, stanchezza, nausea e vomito",C0023530
+sindrome mielodisplastica,C1268964,affaticamento,C0085662
+sindrome mielodisplastica,C1268964,dolori lombari,C0333942
+insufficienza respiratoria,C1145670,paura,C0235106
+insufficienza respiratoria,C1145670,disturbi della coscienza,C0947927
+insufficienza respiratoria,C1145670,ingrossamento dell'ultima falange,C0009080
+insufficienza respiratoria,C1145670,disturbi del sonno,C0851578
+insufficienza respiratoria,C1145670,mal di testa,C0018681
+insufficienza respiratoria,C1145670,difficoltà nel respirare,C0013404
+insufficienza respiratoria,C1145670,cianosi - colorito bluastro-violaceo di pelle,C0010520
+insufficienza respiratoria,C1145670,agitazione,C3887611
+insufficienza respiratoria,C1145670,confusione,C0009676
+insufficienza respiratoria,C1145670,tachicardia,C0039239
+ischialgie,C0549346,perdita della sensibilità,C0852415
+encefalopatia,C0043121,spasmi e crampi,C0152025
+encefalopatia,C0043121,difficoltà nel deglutire,C0011168
+encefalopatia,C0043121,difficoltà nel muovere le labbra,C0013362
+encefalopatia,C0043121,"vertigini, capogiri e confusione",C0020649
+morbo di wilson,C0019202,anemia - pallore,C0002871
+morbo di wilson,C0019202,tremore,C0040822
+morbo di wilson,C0019202,depressione,C0193388
+morbo di wilson,,affaticamento,
+morbo di wilson,,ittero - pelle giallastra,
+morbo di wilson,,gonfiore delle braccia,
+morbo di wilson,,gonfiore delle gambe,
+morbo di wilson,,nausea,
+morbo di wilson,,perdita dell’appetito,
+morbo di wilson,,perdita di bava,
+morbo di wilson,C0019202,difficoltà nel deglutire,C0193388
+diverticolite,C0012813,costipazione,C0009806
+diverticolite,C0012813,diarrea,C0011991
+diverticolite,C0012813,flatulenza,C0016204
+diverticolite,C0012813,dolore addominale,C0000737
+diverticolite,C0012813,febbre,C0015967
+diverticolite,C0012813,dolore alle braccia,C0023518
+diverticolite,C0012813,febbre,C0015967
+diverticolite,C0012813,nausea,C0027497
+diverticolite,C0012813,dolore al petto,C0030193
+diverticolite,C0012813,vomito,C0042963
+morbo di meniere,C0025281,vertigini,C0042571
+morbo di meniere,C0025281,perdita dell'udito,C0494562
+morbo di meniere,C0025281,ronzio nelle orecchie,C0040264
+morbo di meniere,C0025281,nausea,C0027497
+morbo di meniere,C0025281,vomito,C0042963
+linfoma,C0024305,"malessere generale, febbre, stanchezza, nausea e vomito",C0023530
+linfoma,C0024305,dolori alle ossa,C1136085
+linfoma,C0024305,nausea e sazietà,C0038002
+linfoma,C0024305,fegato ingrossato,C0019209
+linfoma,C0024305,febbre,C0015967
+linfoma,C0024305,perdita di peso,C2363736
+linfoma,C0024305,sudore notturno,C0028081
+linfoma,C0024305,anemia - pallore,C0002871
+linfoma,C0024305,stanchezza - fatica,C0015672
+linfoma,C0024305,affaticamento,C0015672
+linfoma,C0024305,numerosi puntini rossi sulla pelle,C0040034
+linfoma,C0024305,sanguinamento,C0019087
+linfoma,C0024305,mal di gola,C0001824
+linfoma,C0024305,suscettibilità alle infezioni,C0236171
+cataratta,C0086543,sensibilità alla luce,C0525027
+cataratta,,visione doppia,
+cataratta,,alterata visione dei colori,
+cataratta,C0086543,disturbi alla vista,C1956311
+encefalite,C0014038,febbre,C0015967
+encefalite,C0014038,sensibilità alla luce,C0085636
+encefalite,C0014038,spasmi muscolari,C0151818
+encefalite,C0014038,disturbi della coscienza,C0947927
+encefalite,C0014038,mal di testa,C0018681
+malaria,C0024530,mal di testa,C0018681
+malaria,C0024530,nausea e sazietà,C0038002
+malaria,C0024530,fegato ingrossato,C0019209
+malaria,C0024530,ittero - pelle giallastra,C0022346
+malaria,C0024530,nausea,C0027497
+malaria,C0024530,vomito,C0042963
+malaria,C0024530,diarrea,C0011991
+malaria,C0024530,anemia - pallore,C0002878
+malaria,C0024530,numerosi puntini rossi sulla pelle,C0040034
+malaria,C0024530,"malessere generale, febbre, stanchezza, nausea e vomito",C0023530
+malaria,C0024530,ipoglicemia,C0020615
+malaria,C0024530,liquido nei polmoni,C0034063
+malaria,C0024530,mani fredde,C0036974
+malaria,C0024530,diminuzione delle urine,C0035078
+malaria,C0024530,febbre,C0015967
+malaria,C0024530,brividi,C0085593
+pielonefrite,C0034186,nausea,C0027497
+pielonefrite,C0034186,vomito,C0042963
+pielonefrite,C0034186,incapacità nel deglutire,C0919671
+pielonefrite,C0034186,mal di testa,C0018681
+pielonefrite,C0034186,difficoltà nell'urinare,C0013428
+pielonefrite,C0034186,dolore al petto,C0030193
+pielonefrite,C0034186,mal di schiena,C0004604
+pitiriasi rosea,C0032026,arrossamento cutaneo,C0040252
+pitiriasi rosea,C0032026,vescicole,C0013595
+pitiriasi rosea,C0032026,alterazioni dell'udito,C0039128
+pitiriasi rosea,C0032026,dolore al pene,C0033860
+pitiriasi rosea,C0032026,macchie bianche,C0085657
+sindrome di gilbert,,disturbi della digestione,
+sindrome di gilbert,,dolore addominale,
+sindrome di gilbert,,perdita di peso,
+sindrome di gilbert,,difficoltà di concentrazione,
+sindrome di gilbert,,ansia,
+sindrome di gilbert,,depressione,
+sindrome di gilbert,,affaticamento,
+sindrome di gilbert,,perdita dell’appetito,
+sindrome di gilbert,C0017551,anemia - pallore,C0019054
+cancro alla prostata,C0600139,dolore e bruciore mentre si urina,C0042023
+cancro alla prostata,C0600139,difficoltà nell'urinare,C0013428
+cancro alla prostata,C0600139,urine frequenti,C0028734
+cancro alla prostata,C0600139,incontinenza,C0021167
+cancro alla prostata,,mal di schiena,
+cancro alla prostata,,eiaculazione dolorosa,
+cancro alla prostata,C0600139,urine frequenti,C0028734
+cancro alla prostata,C0600139,sangue nelle urine,C0018965
+cancro alla prostata,C0600139,disfunzione erettile,C0149707
+cancro alla prostata,C0600139,stanchezza - fatica,C0015672
+cancro alla prostata,C0600139,anemia - pallore,C0002871
+epatite,C0019158,dolore alla pressione,C0234233
+epatite,C0019158,diarrea,C0011991
+epatite,C0019158,dolori articolari,C0003862
+epatite,C0019158,macchie a rilievo sulla pelle,C0015230
+epatite,C0019158,stanchezza - fatica,C0015672
+epatite,C0019158,perdita di appetito,C0003123
+epatite,C0019158,nausea,C0027497
+agranulocitosi,,sanguinamento delle gengive,
+agranulocitosi,C0001824,febbre,C0015967
+agranulocitosi,C0001824,dolore durante la deglutizione,C0031157
+agranulocitosi,C0001824,stomatite,C0038363
+vertigine posizionale parossistica benigna,C0155502,sensibilità alla luce,C0028738
+vertigine posizionale parossistica benigna,C0155502,tachicardia,C0042571
+vertigine posizionale parossistica benigna,C0155502,nausea,C0027497
+vertigine posizionale parossistica benigna,C0155502,vertigini,C1739421
+vertigine posizionale parossistica benigna,C0155502,disturbi alla vista,C0240595
+leucemia linfatica cronica,C0023434,febbre,C0015967
+leucemia linfatica cronica,C0023434,perdita di peso,C2363736
+leucemia linfatica cronica,C0023434,suscettibilità alle infezioni,C0236171
+leucemia linfatica cronica,C0023434,numerosi puntini rossi sulla pelle,C0040034
+leucemia linfatica cronica,C0023434,anemia - pallore,C0002871
+leucemia linfatica cronica,C0023434,mal di gola,C0001824
+leucemia linfatica cronica,C0023434,dolore alle ossa,C0026470
+leucemia linfatica cronica,C0023434,dolore alle braccia,C0023518
+leucemia linfatica cronica,C0023434,fegato ingrossato,C0019209
+leucemia linfatica cronica,C0023434,orticaria,C0042109
+leucemia linfatica cronica,C0023434,lividi a chiazze,C0034150
+leucemia linfatica cronica,C0023434,ingrossamento dei linfonodi,C0497156
+leucemia linfatica cronica,C0023434,stanchezza - fatica,C0015672
+leucemia linfatica cronica,C0023434,sudore notturno,C0028081
+leucemia linfatica cronica,C0023434,nausea e sazietà,C0038002
+leucemia linfatica cronica,C0023434,prurito,C0033774
+leucemia linfatica cronica,C0023434,herpes,C0854330
+leucemia linfatica cronica,C0023434,sensazione di bruciore,C0026946
+insufficienza aortica,C0003504,"dolore al torace, mancanza di ossigeno",C0002962
+insufficienza aortica,C0003504,palpitazioni,C0030252
+insufficienza aortica,C0003504,difficoltà nel respirare,C0013404
+insufficienza aortica,C0003504,agitazione,C3887611
+insufficienza aortica,C0003504,attacco d'asma,C0038218
+insufficienza aortica,C0003504,tachicardia,C0023212
+emicrania,C0149931,visione di lampi,C0236018
+emicrania,C0149931,sensibilità alla luce,C0085636
+emicrania,C0149931,perdita di appetito,C0003123
+emicrania,C0149931,mal di testa,C0018681
+emicrania,C0149931,dolore agli occhi,C0085636
+emicrania,C0149931,vomito,C0042963
+emicrania,C0149931,nausea,C0027497
+emicrania,C0149931,vertigini,C0012833
+emicrania,C0149931,difficoltà nel leggere,C0003537
+attacco ischemico transitorio,,paralisi del volto,
+attacco ischemico transitorio,,difficoltà nel movimento,
+attacco ischemico transitorio,,perdita della sensibilità,
+attacco ischemico transitorio,C0007787,disturbi alla vista,C0547030
+attacco ischemico transitorio,C0007787,difficoltà nel parlare,C0852418
+leucemia mieloide cronica,C0023473,dolore alle braccia,C0023518
+leucemia mieloide cronica,C0023473,nausea e sazietà,C0038002
+leucemia mieloide cronica,C0023473,dolore alle braccia,C0005699
+leucemia mieloide cronica,C0023473,anemia - pallore ,C0023518
+leucemia mieloide cronica,C0023473,affaticamento,C0015672
+leucemia mieloide cronica,C0023473,stanchezza - fatica,C0015672
+leucemia mieloide cronica,C0023473,sudore notturno,C0028081
+leucemia mieloide cronica,C0023473,febbre,C0920063
+bronchiectasia,C0006267,tosse,C0010200
+bronchiectasia,,difficoltà nel respirare,
+bronchiectasia,,muco di colore giallo,
+bronchiectasia,C0006267,suscettibilità alle infezioni,C0024110
+lupus eritematoso sistemico,C0024141,febbre,C0015967
+lupus eritematoso sistemico,C0024141,perdita di peso,C2363736
+lupus eritematoso sistemico,C0024141,ingrossamento dei linfonodi,C0497156
+lupus eritematoso sistemico,C0024141,brividi,C0027121
+lupus eritematoso sistemico,C0024141,dolori articolari,C0162323
+lupus eritematoso sistemico,C0024141,perdita dei capelli,C0002170
+lupus eritematoso sistemico,C0024141,sensibilità alla luce,C0085636
+lupus eritematoso sistemico,C0024141,miocardite,C0027059
+lupus eritematoso sistemico,C0024141,dolore alle braccia,C0031046
+lupus eritematoso sistemico,C0024141,urine torbide,C0024143
+lupus eritematoso sistemico,C0024141,depressione,C0011570
+lupus eritematoso sistemico,C0024141,anemia,C0002880
+lupus eritematoso sistemico,C0024141,numerosi puntini rossi sulla pelle,C0040034
+lupus eritematoso sistemico,C0024141,"malessere generale, febbre, stanchezza, nausea e vomito",C0023530
+lupus eritematoso sistemico,C0024141,febbre,C0015967
+lupus eritematoso sistemico,C0024141,affaticamento,C0015672
+lupus eritematoso sistemico,C0024141,perdita di peso,C2363736
+lupus eritematoso sistemico,C0024141,dolori articolari,C0003862
+lupus eritematoso sistemico,C0024141,atrite,C0003864
+lupus eritematoso sistemico,C0024141,sensibilità alla luce,C0085636
+lupus eritematoso sistemico,C0024141,macchie a rilievo sulla pelle,C0221201
+lupus eritematoso sistemico,C0024141,capillari visibili,C0235499
+lupus eritematoso sistemico,C0024141,perdita dei capelli,C0852968
+lupus eritematoso sistemico,C0024141,psicosi,C0033975
+lupus eritematoso sistemico,C0024141,mal di testa,C0018681
+lupus eritematoso sistemico,C0024141,urine schiumose,C0033687
+lupus eritematoso sistemico,C0024141,diarrea,C0011991
+lupus eritematoso sistemico,C0024141,vescicole sulle labbra,C0007971
+lupus eritematoso sistemico,C0024141,difficoltà nel deglutire,C0014868
+lupus eritematoso sistemico,C0024141,epatite,C0019158
+lupus eritematoso sistemico,C0024141,congiuntivite,C0009763
+tireotossicosi,C0040127,tachicardia,C0039239
+tireotossicosi,C0040127,rossore,C0016382
+tireotossicosi,C0040127,nausea,C0027497
+tireotossicosi,C0040127,vomito,C0042963
+tireotossicosi,C0040127,diarrea,C0011991
+tireotossicosi,C0040127,tremore,C0040822
+tireotossicosi,C0040127,paralisi,C4082299
+tireotossicosi,C0040127,disidratazione,C0011175
+edema cerebrale,,perdita di coscienza,
+edema cerebrale,,febbre,
+edema cerebrale,,difficoltà nel movimento,
+edema cerebrale,,difficoltà nel parlare,
+edema cerebrale,,amnesia,
+edema cerebrale,C1527311,mal di testa,C0018681
+edema cerebrale,,dolore al collo,
+edema cerebrale,C1527311,nausea,C0027497
+edema cerebrale,,tachicardia,
+edema cerebrale,C1527311,vertigini,C0012833
+emorroidi,C0019112,dolore anale,C0281778
+emorroidi,C0019112,anemia - pallore,C0002871
+emorroidi,C0019112,ragadi,C0016167
+emorroidi,C0019112,arrossamento cutaneo,C2363872
+emorroidi,C0019112,prurito anale,C0033775
+emorroidi,C0019112,prolasso rettale,C0034888
+emorroidi,C0019112,cancro del colon-retto,C0009402
+ulcera ventricolare,C0038358,pancia gonfia,C1291077
+ulcera ventricolare,C0038358,nausea,C0027497
+ulcera ventricolare,C0038358,perdita di appetito,C0003123
+ulcera ventricolare,C0038358,perdita di peso,C2363736
+carenza di alfa 1-antitripsina,C0221757,tosse,C0010200
+carenza di alfa 1-antitripsina,C0221757,difficoltà nel respirare,C0013404
+carenza di alfa 1-antitripsina,C0221757,ostruzione respiratoria,C0001883
+carenza di alfa 1-antitripsina,C0221757,enfisema polmonare,C0034067
+carenza di alfa 1-antitripsina,C0221757,ittero - pelle giallastra,C0022354
+carenza di alfa 1-antitripsina,,attacco d'asma,
+carenza di alfa 1-antitripsina,,debolezza,
+carenza di alfa 1-antitripsina,,gonfiore addominale,
+carenza di alfa 1-antitripsina,C0221757,affaticamento,C0438237
+carenza di alfa 1-antitripsina,C0221757,fegato ingrossato,C0019209
+sindrome di cushing,C0010481,viso arrossato,C0332601
+sindrome di cushing,C0010481,aumento di peso,C0311277
+sindrome di cushing,C0010481,debolezza nelle braccia,C0947912
+sindrome di cushing,C0010481,pressione alta,C0020538
+sindrome di cushing,C0010481,affaticamento,C0020621
+sindrome di cushing,C0010481,sonnolenza,C0020488
+sindrome di cushing,C0010481,sudori freddi,C0546817
+sindrome di cushing,C0010481,aumento dei peli,C0019572
+sindrome di cushing,C0010481,osteoporosi,C0029456
+carcinoma ovarico,C0029925,difficoltà nell'urinare,C0478132
+carcinoma ovarico,C0029925,pancia gonfia,C1291077
+carcinoma ovarico,C0029925,nausea e sazietà,C3714614
+carcinoma ovarico,C0029925,accumulo di liquido nell'addome,C0003962
+carcinoma ovarico,C0029925,dolori addominali,C0013390
+carcinoma ovarico,C0029925,perdita di peso,C2363736
+carcinoma ovarico,C0029925,stanchezza - fatica,C0015672
+carcinoma ovarico,C0029925,flatulenza,C0016205
+anemia aplastica,C0002874,anemia - pallore,C0030312
+anemia aplastica,C0002874,febbre,C0027947
+anemia aplastica,C0002874,lividi a chiazze,C0030232
+anemia aplastica,C0002874,difficoltà nel respirare,C0013404
+anemia aplastica,C0002874,sangue dal naso,C0014591
+anemia aplastica,C0002874,numerosi puntini rossi sulla pelle,C0040034
+anemia aplastica,C0002874,dolore allo stomaco,C2609241
+anemia aplastica,C0002874,gonfiore alla gengive,C0017574
+anemia aplastica,C0002874,polmonite,C0032285
+anemia aplastica,C0002874,eruzioni cutanee,C0243026
+anemia aplastica,C0002874,ematoma,C0018944
+anemia aplastica,C0002874,mal di gola,C0001824
+anemia aplastica,C0002874,ulcere nella bocca,C0149745
+anemia aplastica,C0002874,gonfiore alle tonsille,C0040425
+anemia aplastica,C0002874,dolore alla pressione,C0007642
+anemia aplastica,C0002874,macchie bianche,C0023531
+anemia aplastica,C0002874,cirrosi epatica,C0023890
+anemia aplastica,C0002874,dolori muscolari e articolari,C0034069
+gonorrea,C0018081,dolore e bruciore mentre si urina,C0041976
+gonorrea,C0018081,dolori durante i rapporti sessuali,C0007860
+gonorrea,C0018081,dolore pelvico,C0004769
+gonorrea,C0018081,prurito,C0033774
+gonorrea,C0018081,dolore anale,C0033246
+gonorrea,C0018081,foruncoli,C0042384
+gonorrea,C0018081,atrite,C0003864
+tachicardia da rientro nodale,,dolore al petto,
+tachicardia da rientro nodale,,ansia,
+tachicardia da rientro nodale,C0039232,"vertigini, capogiri e confusione",C0020649
+tachicardia da rientro nodale,C0039232,tachicardia,C0039239
+varicella,C0008049,macchie a rilievo sulla pelle,C0015230
+varicella,,vescicole,
+varicella,C0008049,febbre,C0015967
+varicella,C0008049,mal di testa,C0018681
+varicella,C0008049,prurito,C0033774
+broncopolmonite,,brividi,
+broncopolmonite,,sudorazione,
+broncopolmonite,,dolore al petto,
+broncopolmonite,,fiato corto,
+broncopolmonite,C0006285,tosse,C0010200
+broncopolmonite,C0006285,febbre,C0015967
+sindrome dell'arteria spinale anteriore,C0221069,dolore al petto,C0030193
+sindrome dell'arteria spinale anteriore,C0221069,sensibilità alla luce,C0028738
+sindrome dell'arteria spinale anteriore,C0221069,disturbi alla vista,C0547030
+sindrome dell'arteria spinale anteriore,C0221069,ronzio nelle orecchie,C0040264
+sindrome dell'arteria spinale anteriore,C0221069,disturbi della sensibilità della pelle,C0012766
+sindrome dell'arteria spinale anteriore,C0221069,nausea,C0027497
+sindrome dell'arteria spinale anteriore,C0221069,tendenza ad inciampare,C0007758
+sindrome miastenica di lambert-eaton,,dolore alle gambe,
+sindrome miastenica di lambert-eaton,,dolore alle braccia,
+sindrome miastenica di lambert-eaton,,secchezza alla bocca,
+sindrome miastenica di lambert-eaton,,debolezza,
+sindrome miastenica di lambert-eaton,C0022972,abbassamento delle palpebre,C0033377
+sindrome miastenica di lambert-eaton,C0022972,costipazione,C0009806
+fibromialgia,C0016053,eccessiva sudorazione,C0020458
+fibromialgia,C0016053,tremore,C0040822
+fibromialgia,,difficoltà di concentrazione,
+fibromialgia,,dolore anale,
+fibromialgia,,mal di testa,
+fibromialgia,,disturbi del sonno,
+fibromialgia,,stanchezza,
+fibromialgia,,dolori muscolari,
+fibromialgia,C0016053,sensazione di un corpo estraneo nella gola,C0423600
+catatonia,C0007398,stupore,C0085628
+catatonia,C0007398,perdita sensibilità al dolore,C0233612
+catatonia,C0007398,mutismo,C0026884
+catatonia,C0007398,ripetizione di parole o frasi,C0013528
+sindrome da inappropriata secrezione,C0021141,perdita di appetito,C0003123
+sindrome da inappropriata secrezione,C0021141,crampi muscolari,C0026821
+sindrome da inappropriata secrezione,C0021141,disturbi della personalità,C0240735
+sindrome da inappropriata secrezione,C0021141,stupore,C0085628
+sindrome da inappropriata secrezione,C0021141,malessere generale,C0020625
+sindrome da inappropriata secrezione,C0021141,nausea,C0027497
+sindrome da inappropriata secrezione,C0021141,vomito,C0042963
+sindrome da inappropriata secrezione,C0021141,mal di testa,C0018681
+sindrome da inappropriata secrezione,C0021141,perdita di peso,C0232462
+sindrome da inappropriata secrezione,C0021141,irritabilità,C0022107
+malattia di von Willebrand ,C0042974,sangue dal naso,C0014591
+malattia di von Willebrand ,C0042974,dolori articolari,C0040440
+malattia di von Willebrand ,,lividi,
+malattia di von Willebrand ,,sanguinamento,
+malattia di von Willebrand ,C0042974,dolori addominali,C0025323
+malattia di von Willebrand ,C0042974,difficoltà di movimento,C0018924
+avvelenamento da piombo,,sangue nelle urine,
+avvelenamento da piombo,,convulsioni,
+avvelenamento da piombo,,vomito,
+avvelenamento da piombo,,nausea,
+avvelenamento da piombo,C0023176,mal di testa,C0544864
+avvelenamento da piombo,C0023176,spasmi e crampi,C0152025
+avvelenamento da piombo,C0023176,movimenti anomali di mani e braccia,C0085584
+tumore della cervice,,dolori durante i rapporti sessuali,
+tumore della cervice,C0302592,perdita di sangue uterino,C0025874
+tumore della cervice,C0302592,dolore pelvico,C0016330
+tumore della cervice,C0302592,dolore al petto,C0030193
+insufficienza epatica,C1306571,alito cattivo,C0239571
+insufficienza epatica,C1306571,tremore,C0040822
+insufficienza epatica,C1306571,coma,C0009421
+insufficienza epatica,C1306571,"vertigini, capogiri e confusione",C0020649
+insufficienza epatica,C1306571,palpitazioni,C0020578
+insufficienza epatica,C1306571,prurito,C0033774
+difterite,C0012546,ingrossamento dei linfonodi,C0012556
+difterite,C0012546,febbre,C0015967
+difterite,C0012546,vomito,C0042963
+difterite,C0012546,tosse,C0010200
+difterite,C0012546,miocardite,C0027059
+difterite,C0012546,fitte,C0032541
+difterite,C0012546,polmonite,C0032285
+acromegalia,C0001206,ingrossamento della lingua,C0009677
+acromegalia,C0001206,mal di testa,C0018681
+acromegalia,C0001206,pressione alta,C0020538
+acromegalia,C0001206,eccessiva sudorazione,C0020458
+acromegalia,C0001206,aumento della pelosità,C0020555
+acromegalia,C0001206,dolori articolari,C0003862
+acromegalia,C0001206,perdita della sensibilità,C0020580
+acromegalia,C0001206,disturbi alla vista,C0547030
+sindrome da anticorpi antifosfolipidi,C0085278,perdita della vista,C0456909
+sindrome da anticorpi antifosfolipidi,C0085278,perdita dell'udito,C0494562
+sindrome da anticorpi antifosfolipidi,C0085278,convulsioni,C0036572
+sindrome da anticorpi antifosfolipidi,C0085278,emicrania,C0149931
+sindrome da anticorpi antifosfolipidi,C0085278,dolore pelvico,C0238457
+sindrome da anticorpi antifosfolipidi,C0085278,urine schiumose,C0033687
+sindrome da anticorpi antifosfolipidi,C0085278,pressione alta,C0020538
+sindrome da anticorpi antifosfolipidi,C0085278,numerosi puntini rossi sulla pelle,C0040034
+sindrome da anticorpi antifosfolipidi,C0085278,anemia - pallore,C0019054
+sindrome da anticorpi antifosfolipidi,C0085278,emorragia,C0019080
+sindrome da anticorpi antifosfolipidi,C0085278,formicolio,C0034734
+sindrome da anticorpi antifosfolipidi,C0085278,lividi,C0085642
+sindrome da anticorpi antifosfolipidi,C0085278,dolore al petto,C0027051
+sindrome da anticorpi antifosfolipidi,C0085278,embolie,C0013922
+sindrome da anticorpi antifosfolipidi,C0085278,tachicardia,C0038454
+sindrome da anticorpi antifosfolipidi,C0085278,aborto spontaneo,C0000809
+iperaldosteronismo,,spasmi e crampi,
+iperaldosteronismo,,paralisi,
+iperaldosteronismo,,mal di testa,
+iperaldosteronismo,C0020428,pressione alta,C0020538
+iperaldosteronismo,C0020428,affaticamento,C0020621
+iperaldosteronismo,C0020428,vomito,C0220983
+atrite,,dolore alle ginocchia,
+atrite,,gonfiore alle gambe,
+atrite,C0003864,trauma,C0043251
+carcinoma tiroideo,C0007115,difficoltà nel deglutire,C0011168
+carcinoma tiroideo,C0007115,difficoltà nel respirare,C0013404
+carcinoma tiroideo,C0007115,tosse,C0010200
+trombosi venosa cerebrale,C0151945,dolore alla pressione,C0234233
+trombosi venosa cerebrale,C0151945,disturbi alla vista,C0547030
+trombosi venosa cerebrale,C0151945,dolore al petto,C0030193
+trombosi venosa cerebrale,C0151945,edema - accumulo di liquido,C0013604
+trombosi venosa cerebrale,C0151945,attacco epilettico,C0014544
+trombosi venosa cerebrale,C0151945,mal di testa,C0018681
+trombosi venosa cerebrale,C0151945,nausea,C0027497
+trombosi venosa cerebrale,C0151945,febbre,C0015967
+trombosi venosa cerebrale,C0151945,dolore alle braccia,C0023518
+trombosi venosa cerebrale,C0151945,eventi focali,C0751495
+trombosi venosa cerebrale,C0151945,paralisi facciale,C0271355
+trombosi venosa cerebrale,C0151945,riduzione della vista,C0030353
+nervo laringeo ricorrente,,difficoltà respiratorie,
+nervo laringeo ricorrente,,perdita della voce,
+nervo laringeo ricorrente,,indebolimento della voce,
+nervo laringeo ricorrente,C0542142,vampate di calore,C0013404
+nervo laringeo ricorrente,C0542142,senso di soffocamento,C0038450
+carcinoma a cellule renali,C0007134,sangue nelle urine,C0018965
+carcinoma a cellule renali,C0007134,dolore all'inguine,C0042341
+carcinoma a cellule renali,C0007134,stitichezza,C0020437
+carcinoma a cellule renali,C0007134,pressione alta,C0020538
+carcinoma a cellule renali,C0007134,mal di testa,C1868945
+carcinoma a cellule renali,C0007134,dolore al fianco,C0016199
+carcinoma a cellule renali,C0007134,perdita di peso,C2363736
+carcinoma a cellule renali,C0007134,stanchezza - fatica,C0015672
+carcinoma a cellule renali,C0007134,febbre,C0015967
+carcinoma a cellule renali,C0007134,anemia - pallore,C0002871
+calcoli urinari,C0451641,vomito,C0042963
+calcoli urinari,C0451641,incapacità nel deglutire,C0919671
+calcoli urinari,C0451641,sangue nelle urine,C0239937
+calcoli urinari,C0451641,coliche,C0152169
+calcoli urinari,C0451641,nausea,C0027497
+influenza,C0021400,tosse,C0010200
+influenza,C0021400,febbre,C0015967
+influenza,C0021400,difficoltà nel deglutire,C0011168
+influenza,C0021400,mal di testa,C0018681
+influenza,C0021400,brividi,C0085593
+gastroenterite,C0520764,flautolenza,C1963891
+gastroenterite,C0520764,febbre,C0031154
+gastroenterite,C0520764,intossicazione alimentare,C0016479
+gastroenterite,C0520764,secchezza della bocca,C0006057
+gastroenterite,C0520764,spasmi,C0039614
+gastroenterite,C0520764,colite,C1257843
+sindrome di reye,C0035400,vomito,C0042963
+sindrome di reye,C0035400,ipoglicemia,C0020615
+sindrome di reye,C0035400,movimenti anomali di mani e braccia,C0085584
+sindrome di reye,C0035400,vomito,C0042963
+sindrome di reye,C0035400,sonnolenza,C0013144
+sindrome di reye,C0035400,torpore,C0023380
+sindrome di reye,C0035400,ittero - pelle giallastra,C0086565
+porfiria,C0032708,perdita forza muscolare,C0235704
+porfiria,C0032708,spasmi e crampi,C0152025
+porfiria,C0032708,perdita della sensibilità,C0852415
+porfiria,C0032708,dolore addominale,C0000737
+porfiria,C0032708,nausea,C0027497
+porfiria,C0032708,convulsioni,C0026821
+porfiria,C0032708,paralisi e paresi,C1697844
+porfiria,C0032708,sintomi psichiatrici,C0852553
+porfiria,C0032708,tachicardia,C0039239
+porfiria,C0032708,pressione alta,C0020538
+paralisi facciale,C0376175,abbassamento di un angolo della bocca,C0221328
+paralisi facciale,,difficoltà espressive,
+paralisi facciale,C0376175,occhio sbarrato,C0224176
+sindrome di kawasaki,C0026691,stomatite,C0038362
+sindrome di kawasaki,C0026691,eritema palmare,C0014745
+sindrome di kawasaki,C0026691,febbre,C0015967
+sindrome di kawasaki,C0026691,ingrossamento dei linfonodi,C0497156
+sindrome di kawasaki,C0026691,macchie a rilievo sulla pelle,C0015230
+sindrome di kawasaki,C0026691,intolleranza alla luce,C0014034
+sindrome di kawasaki,C0026691,puntini rossi sulla lingua,C0241262
+sindrome di kawasaki,C0026691,congiuntivite,C0009763
+nefropatia diabetica,,perdita di peso,
+nefropatia diabetica,,suscettibilità alle infezioni,
+nefropatia diabetica,,schiuma nelle urine,
+nefropatia diabetica,,gonfiore alle gambe,
+nefropatia diabetica,,gonfiore al viso,
+nefropatia diabetica,C0011881,albuminurie,C0001925
+nefropatia diabetica,C0011881,dolori muscolari,C0020473
+scarlatina,C0036285,difficoltà nel deglutire,C0011168
+scarlatina,C0036285,tosse,C0010200
+scarlatina,C0036285,vomito,C0042963
+scarlatina,C0036285,mal di testa,C0018681
+scarlatina,C0036285,faringite,C0031350
+scarlatina,C0036285,dolore durante la deglutizione,C0031157
+scarlatina,C0036285,intolleranza alla luce,C0014034
+scarlatina,C0036285,puntini rossi sulla lingua,C0241262
+scarlatina,C0036285,macchie a rilievo sulla pelle,C0015230
+scarlatina,C0036285,lividi a chiazze,C0030232
+scarlatina,C0036285,febbre,C0015967
+scarlatina,C0036285,nausea,C0027497
+scarlatina,C0036285,gonfiore alle tonsille,C0040425
+gastrite,C0017152,dolore addominale,C0000737
+gastrite,C0017152,nausea e sazietà,C3714614
+gastrite,C0017152,nausea,C0027497
+gastrite,C0017152,vomito,C0042963
+gastrite,C0017152,perdita di peso,C0232462
+pneumotorace iperteso,C0264558,tachicardia,C0039239
+pneumotorace iperteso,C0264558,difficoltà nel respirare,C0013404
+pneumotorace iperteso,C0264558,"vertigini, capogiri e confusione",C0020649
+pneumotorace iperteso,C0264558,cianosi - colorito bluastro-violaceo di pelle,C0010520
+pneumotorace iperteso,C0264558,sonnolenza,C0242184
+colesteatoma,C0008373,dolore alle orecchie,C0013456
+colesteatoma,C0008373,perdita dell'udito,C0018777
+colesteatoma,C0008373,mal di testa,C0018681
+colesteatoma,C0008373,febbre,C0015967
+pericardite,,sudorazione,
+pericardite,,febbre,
+pericardite,,singhiozzo,
+pericardite,C0031046,"dolore al torace, mancanza di ossigeno",C0002962
+pericardite,C0031046,aumento del numero di linfociti,C0024282
+idrocefalo normoteso ,C0020258,difficoltà nel movimento,C0575081
+idrocefalo normoteso ,C0020258,incontinenza,C0042024
+idrocefalo normoteso ,C0020258,disturbi dell'equilibrio,C1112468
+carcinoma esofageo,C0152018,difficoltà nel deglutire,C0011168
+carcinoma esofageo,C0152018,perdita di peso,C2363736
+carcinoma esofageo,C0152018,dolore al petto,C0030193
+carcinoma esofageo,C0152018,feci scure,C0025222
+carcinoma esofageo,C0152018,sapore di sangue in bocca,C0018926
+carcinoma esofageo,C0152018,rigurgito,C2004489
+carcinoma esofageo,C0152018,vomito,C0042963
+carcinoma esofageo,C0152018,perdita di saliva,C0267072
+carcinoma esofageo,C0152018,mal di schiena,C0004604
+carcinoma esofageo,C0152018,perdita di appetito,C0003123
+carcinoma esofageo,C0152018,raucedine,C0019825
+carcinoma esofageo,C0152018,difficoltà nel deglutire,C0011168
+carcinoma esofageo,C0152018,"dolore al torace, mancanza di ossigeno",C0002962
+carcinoma esofageo,C0152018,eccessiva salivazione,C0037036
+carcinoma epatocellulare,C2239176,dolore alla pressione,C0234233
+carcinoma epatocellulare,C2239176,perdita di peso,C0013911
+carcinoma epatocellulare,C2239176,accumulo di liquido nell'addome,C0003962
+carcinoma epatocellulare,C2239176,febbre,C0015967
+carcinoma epatocellulare,C2239176,mal di testa,C1868945
+trombocitemia essenziale,C0040028,disturbi alla vista,C0547030
+trombocitemia essenziale,C0040028,mal di testa,C0018681
+trombocitemia essenziale,C0040028,vertigini,C0012833
+trombocitemia essenziale,C0040028,ronzio nelle orecchie,C0040264
+trombocitemia essenziale,C0040028,sudore notturno,C0028081
+trombocitemia essenziale,C0040028,sangue dal naso,C0014591
+trombocitemia essenziale,C0040028,sanguinamento dalle gengive,C0017565
+trombocitemia essenziale,C0040028,ematoma,C0018944
+trombocitemia essenziale,C0040028,perdita della sensibilità,C0852415
+trombocitemia essenziale,C0040028,dolore lungo le vene,C0014804
+trombocitemia essenziale,C0040028,vertigini,C0012833
+trombocitemia essenziale,C0040028,mal di testa,C0018681
+trombocitemia essenziale,C0040028,disturbi alla vista,C0547030
+trombocitemia essenziale,C0040028,tendenza al sanguinamento,C0019087
+trombocitemia essenziale,C0040028,nausea e sazietà,C0038002
+trombocitemia essenziale,C0040028,dolori articolari,C0740394
+trombocitemia essenziale,C0040028,dolore alle braccia,C0023518
+sindrome dell'apnea notturna delle vie aeree superiori,C0751761,respirazione della bocca,C0026635
+sindrome dell'apnea notturna delle vie aeree superiori,C0751761,perdita dell'udito,C0018777
+sindrome dell'apnea notturna delle vie aeree superiori,C0751761,russamento,C0037384
+sindrome dell'apnea notturna delle vie aeree superiori,C0751761,tosse,C0010200
+bronchite cronica,,brividi,
+bronchite cronica,,febbre,
+bronchite cronica,,fiato corto,
+bronchite cronica,,muco di colore giallo,
+bronchite cronica,,dolore nel deglutire,
+bronchite cronica,,tosse,
+bronchite cronica,,difficoltà nel respirare,
+bronchite cronica,C0008677,rumori respiratori,C0004339
+tumore cerebrale maligno,C0153633,mal di testa,C0018681
+tumore cerebrale maligno,C0153633,nausea,C0027497
+tumore cerebrale maligno,C0153633,vomito,C0042963
+tumore cerebrale maligno,C0153633,convulsioni,C0036572
+tumore cerebrale maligno,C0153633,riduzione della vista,C0030353
+sindrome da furto della succlavia,C0038531,vertigini,C0012833
+sindrome da furto della succlavia,C0038531,perdita di coscienza,C0041657
+sindrome da furto della succlavia,C0038531,disturbi alla vista,C0547030
+sindrome da furto della succlavia,C0038531,ronzio nelle orecchie,C0040264
+sindrome da furto della succlavia,C0038531,disturbi della sensibilità della pelle,C0012766
+sindrome da furto della succlavia,C0038531,tendenza ad inciampare,C0007758
+sindrome da furto della succlavia,C0038531,perdita della sensibilità,C0852415
+sindrome da furto della succlavia,C0038531,dolore al petto,C0030193
+sindrome da furto della succlavia,C0038531,lividi a chiazze,C0030232
+miocardite,C0027059,affaticamento,C0015672
+miocardite,C0027059,febbre,C0015967
+miocardite,C0027059,diarrea,C0011991
+miocardite,C0027059,tosse,C0010200
+miocardite,C0027059,macchie a rilievo sulla pelle,C0015230
+miocardite,C0027059,dolore al petto,C0008031
+miocardite,C0027059,palpitazioni,C0030252
+intertrigine,,macchie scure sulla pelle,
+intertrigine,,squame sulla pelle,
+intertrigine,,prurito,
+intertrigine,,pustole,
+intertrigine,C0021807,erosioni cutanee,C0085624
+colangite,,dolore addominale,
+colangite,C0008311,dolore al petto,C0030193
+colangite,C0008311,febbre,C0015967
+colangite,,diarrea,
+colangite,,perdita di peso,
+colangite,,debolezza,
+colangite,,perdita dell’appetito,
+colangite,,prurito,
+colangite,C0008311,ittero - pelle giallastra,C0022346
+colangite sclerosante primitiva,C0566602,ittero - pelle giallastra,C0022346
+colangite sclerosante primitiva,,febbre,
+colangite sclerosante primitiva,C0566602,affaticamento,C0015672
+colangite sclerosante primitiva,C0566602,stanchezza - fatica,C0015672
+colangite sclerosante primitiva,,perdita di peso,
+colangite sclerosante primitiva,,perdita dell’appetito,
+colangite sclerosante primitiva,,dolore addominale,
+colangite sclerosante primitiva,C0566602,fegato ingrossato,C0019209
+colangite sclerosante primitiva,C0566602,nausea e sazietà,C0038002
+colangite sclerosante primitiva,C0566602,prurito,C0033774
+colangite sclerosante primitiva,C0566602,diarrea,C0008370
+sindrome da carcinoide,,debolezza,
+sindrome da carcinoide,,tachicardia,
+sindrome da carcinoide,,perdita di peso,
+sindrome da carcinoide,,difficoltà respiratorie,
+sindrome da carcinoide,,dolore addominale,
+sindrome da carcinoide,,vampate di calore,
+sindrome da carcinoide,C0024586,attacco d'asma,C0038218
+sindrome da carcinoide,C0024586,rossore,C0016382
+sindrome da carcinoide,C0024586,diarrea,C0011991
+mielofibrosi,,debolezza,
+mielofibrosi,,fiato corto,
+mielofibrosi,,fegato ingrossato,
+mielofibrosi,,febbre,
+mielofibrosi,,anemia - pallore,
+mielofibrosi,,sudorazione notturna,
+mielofibrosi,,ematomi,
+mielofibrosi,C0852437,dolore alle braccia,C0023518
+mielofibrosi,C0852437,prurito,C0702266
+mielofibrosi,C0852437,nausea e sazietà,C0038002
+gastrite acuta,C0149518,dolore al petto,C0030193
+gastrite acuta,C0149518,vomito,C0042963
+gastrite acuta,C0149518,vomito con sangue,C0025222
+gastrite acuta,C0149518,sangue nelle feci,C0085577
+gastrite acuta,C0149518,nausea,C0027497
+gastrite acuta,C0149518,nausea e sazietà,C3714614
+gastrite acuta,C0149518,sangue dal retto,C0014724
+gastrite acuta,C0149518,pancia gonfia,C1291077
+rachitismo,C0035579,rigonfiamento dei polsi,C0392452
+rachitismo,C0035579,incurvatura delle gambe,C0426824
+rachitismo,C0035579,crampi,C0039621
+rachitismo,C0035579,convulsioni,C0036572
+rachitismo,,sporgenze ossee sul petto,
+rachitismo,C0035579,carie,C0011334
+miomatosi uterina,C3888977,dolori addominali,C0025323
+miomatosi uterina,C3888977,perdita di sangue uterino,C0025874
+miomatosi uterina,C3888977,difficoltà nell'urinare,C0005682
+miomatosi uterina,C3888977,addome acuto,C0000727
+miomatosi uterina,C3888977,anemia - pallore,C0002871
+miomatosi uterina,C3888977,infertilità,C0021359
+leucemia mieloide acuta,C0023467,stanchezza - fatica,C0015672
+leucemia mieloide acuta,C0023467,febbre,C0015967
+leucemia mieloide acuta,C0023467,sudore notturno,C0028081
+leucemia mieloide acuta,C0023467,suscettibilità alle infezioni,C0236171
+leucemia mieloide acuta,C0023467,numerosi puntini rossi sulla pelle,C0031256
+leucemia mieloide acuta,C0023467,anemia - pallore,C0002871
+otite media,,vomito,
+otite media,,diarrea,
+otite media,,febbre,
+otite media,,brividi,
+otite media,,nausea,
+otite media,C0029882,dolore alle orecchie,C0013456
+otite media,C0029882,perdita dell'udito,C0018777
+commozione cerebrale,,stanchezza,
+commozione cerebrale,,ronzio nelle orecchie,
+commozione cerebrale,,difficoltà nel parlare,
+commozione cerebrale,,vomito,
+commozione cerebrale,,nausea,
+commozione cerebrale,C0006107,difficoltà nel movimento,C0042384
+commozione cerebrale,C0006107,mal di testa,C0018681
+commozione cerebrale,C0006107,vertigini,C0012833
+esofagite da reflusso,,sensazione di bruciore,
+esofagite da reflusso,,rigurgito,
+esofagite da reflusso,C0014869,difficoltà nel deglutire,C0011168
+esofagite da reflusso,C0014869,"dolore al torace, mancanza di ossigeno",C0002962
+cistite,C0010692,difficoltà nell'urinare,C0013428
+cistite,C0010692,urine frequenti,C0028734
+cistite,C0010692,dolore e bruciore mentre si urina,C0042023
+diverticolosi,,diarrea,
+diverticolosi,,febbre,
+diverticolosi,,dolore addominale,
+diverticolosi,,flautulenza,
+diverticolosi,,crampi,
+diverticolosi,C1510475,emorragia,C0019080
+diverticolosi,C1510475,ulcera,C0549099
+diverticolosi,C1510475,febbre,C0031154
+malattia da immersione,C0011119,dolore al petto,C0030193
+malattia da immersione,C0011119,edema - accumulo di liquido,C0013604
+malattia da immersione,C0011119,disturbi della sensibilità della pelle,C0012766
+malattia da immersione,C0011119,perdita dell'udito,C0494562
+malattia da immersione,C0011119,perdita della vista,C0456909
+malattia da immersione,C0011119,perdita di coscienza,C0041657
+malattia da immersione,C0011119,difficoltà respiratorie,C0162297
+urosepsi,C0149801,brividi,C0085593
+urosepsi,C0149801,febbre,C0015967
+urosepsi,C0149801,tachicardia,C0039239
+urosepsi,C0149801,aumento della frequenza respiratoria,C0231835
+urosepsi,C0149801,"vertigini, capogiri e confusione",C0020649
+urosepsi,C0149801,cianosi - colorito bluastro-violaceo di pelle,C0010520
+urosepsi,C0149801,diminuzione delle urine,C0028961
+sindrome di wallenberg,C0043019,difficoltà nel parlare,C1527344
+sindrome di wallenberg,C0043019,difficoltà nel muovere le labbra,C0013362
+sindrome di wallenberg,,vomito,
+sindrome di wallenberg,,raucedine,
+sindrome di wallenberg,,disturbi alla vista,
+sindrome di wallenberg,C0043019,perdita della sensibilità,C0020580
+sindrome di wallenberg,,nausea,
+sindrome di wallenberg,C0043019,vertigini,C1384666
+carcinoma tonsillare,C0558355,difficoltà nel deglutire,C0011168
+carcinoma tonsillare,C0558355,raucedine,C0019825
+carcinoma tonsillare,C0558355,alito cattivo,C0018520
+tumore di klatskin,C0206702,ittero - pelle giallastra,C0022346
+tumore di klatskin,C0206702,prurito,C0033774
+tumore di klatskin,C0206702,feci untuose,C0038238
+linfangite,C0024225,malessere generale,C0231218
+linfangite,C0024225,febbre,C0015967
+linfangite,C0024225,brividi,C0085593
+linfangite,C0024225,tachicardia,C0039239
+ulcera gastroduodenale,C0030920,nausea e sazietà,C3714614
+ulcera gastroduodenale,C0030920,nausea,C0027497
+ulcera gastroduodenale,C0030920,vomito,C0042963
+ulcera gastroduodenale,C0030920,perdita di appetito,C0003123
+ulcera gastroduodenale,C0030920,emorragie,C0014724
+ulcera gastroduodenale,C0030920,perdita di peso,C2363736
+ulcera gastroduodenale,C0030920,nausea e sazietà,C3714614
+glaucoma,C0017601,dolore agli occhi,C0151827
+glaucoma,C0017601,vomito,C0042963
+glaucoma,C0017601,perdita della vista,C0456909
+glaucoma,C0017601,assenza riflesso fotomotore,C0034941
+glaucoma,C0017601,mal di testa,C0018681
+glaucoma,C0017601,occhi arrossati,C0235267
+glaucoma,C0017601,vomito,C0042963
+glaucoma,C0017601,nausea,C0027497
+orbitopatia tiroidea,,sporgenza degli occhi,
+orbitopatia tiroidea,,occhi arrossati,
+orbitopatia tiroidea,,dolore agli occhi,
+orbitopatia tiroidea,C3495928,paura della luce,C0085636
+orbitopatia tiroidea,C3495928,sensazione di corpo estraneo negli occhi,C0423602
+spondilite anchilosante,C0949690,dolore ai glutei,C0574960
+spondilite anchilosante,C0949690,dolori articolari,C0242490
+spondilite anchilosante,C0949690,riduzione della vista,C0022081
+spondilite anchilosante,C0949690,mal di schiena,C0004604
+spondilite anchilosante,C0949690,riduzione della vista,C0022081
+spondilite anchilosante,C0949690,lacrimazione e dolore all'occhio,C0022073
+stenosi aortica,C0003492,mal di testa,C0018681
+stenosi aortica,C0003492,sangue dal naso,C0014591
+stenosi aortica,C0003492,vertigini,C0012833
+stenosi aortica,C0003492,ronzio nelle orecchie,C0040264
+stenosi aortica,C0003492,cianosi - colorito bluastro-violaceo di pelle,C0010520
+stenosi aortica,C0003492,fegato ingrossato,C0019214
+ritenzione urinaria,C0152032,diminuzione delle urine,C0003460
+ritenzione urinaria,C0152032,incontinenza,C0375553
+sindrome neurolettica maligna,,rigidità muscolare,
+sindrome neurolettica maligna,,tachicardia,
+sindrome neurolettica maligna,C0027849,febbre,C0015967
+sindrome neurolettica maligna,C0027849,delirio,C0201973
+distacco della retina,,lampi di luce,
+distacco della retina,C0035305,mosche volanti,C0016242
+distacco della retina,C0035305,disturbi alla vista,C0036454
+emofilia,,dolori articolari,
+emofilia,,gonfiore alle gambe,
+emofilia,,sangue nelle urine,
+emofilia,C0019069,ematoma,C0018944
+emofilia,C0019069,sangue dal naso,C0014591
+emofilia,C0019069,mestruazioni particolarmente abbondanti,C0025323
+malattia di gaucher,C0017205,dolore alle ossa,C0151825
+malattia di gaucher,C0017205,sanguinamento,C0019087
+malattia di gaucher,C0017205,mestruazioni particolarmente abbondanti,C0025323
+malattia di gaucher,C0017205,sangue dal naso,C0014591
+malattia di gaucher,C0017205,sanguinamento della pelle,C0852361
+malattia di gaucher,C0017205,perdita di sangue uterino,C0025874
+malattia di gaucher,C0017205,sanguinamento dalle gengive,C0017565
+malattia di gaucher,C0017205,suscettibilità alle infezioni,C0236171
+malattia di gaucher,C0017205,difficoltà nel respirare,C0013404
+arteriopatia periferica,,cianosi - colorito bluastro-violaceo di pelle,
+arteriopatia periferica,,perdita di peli,
+arteriopatia periferica,C1704436,dolore al petto,C0030193
+arteriopatia periferica,C1704436,difficoltà nel respirare,C0036974
+arteriopatia periferica,C1704436,perdita della sensibilità,C0852415
+rabdomiolisi,C0035410,dolori muscolari e articolari,C0231528
+rabdomiolisi,C0035410,debolezza nelle braccia,C0947912
+rabdomiolisi,C0035410,febbre,C0015967
+rabdomiolisi,C0035410,nausea,C0027497
+rabdomiolisi,C0035410,urine scure,C0027080
+rabdomiolisi,C0035410,debolezza,C0020461
+rabdomiolisi,C0035410,dolori articolari,C0740394
+rosolia,,influenza,
+rosolia,,occhi arrossati,
+rosolia,,perdita dell’appetito,
+rosolia,C0035920,stanchezza,C0025007
+rosolia,C0035920,malessere generale,C0015231
+rosolia,C0035920,macchie a rilievo sulla pelle,C0015230
+sesta malattia,C0023449,febbre,C0015967
+sesta malattia,C0023449,sudore notturno,C0028081
+sesta malattia,C0023449,sensazione di bruciore,C0026946
+sesta malattia,C0023449,numerosi puntini rossi sulla pelle,C0040034
+sesta malattia,C0023449,ingrossamento dei linfonodi,C0497156
+sesta malattia,C0023449,nausea e sazietà,C0038002
+sesta malattia,C0023449,anemia - pallore,C0002871
+sesta malattia,C0023449,suscettibilità alle infezioni,C0236171
+sesta malattia,C0023449,stanchezza - fatica,C0015672
+sesta malattia,C0023449,fegato ingrossato,C0019214
+eritrasma,C0014752,prurito all'inguine,C0006840
+eritrasma,C0014752,dermatite da contatto,C0011616
+eritrasma,C0014752,dolore al pene,C0033860
+eritrasma,C0014752,desquamazione della pelle,C0036508
+eritrasma,C0014752,arrossamento cutaneo,C0040252
+nicturia,C0028734,cistite,C0010692
+nicturia,C0028734,incontinenza,C0042024
+nicturia,C0028734,insufficienza cardiaca,C0018801
+nicturia,C0028734,iperplasia prostatica benigna,C1704272
+nicturia,C0028734,insufficienza renale,C1565489
+mielofibrosi,,febbre,
+mielofibrosi,,ematoma,
+mielofibrosi,,sudorazione notturna,
+mielofibrosi,,ittero - pelle giallastra,
+mielofibrosi,,fegato ingrossato,
+mielofibrosi,,fiato corto,
+mielofibrosi,,stanchezza,
+mielofibrosi,C0948968,nausea e sazietà,C0038002
+"alveolite allergica, esogena",C0002390,mal di testa,C0018681
+"alveolite allergica, esogena",C0002390,brividi,C0085593
+"alveolite allergica, esogena",C0002390,affaticamento,C0015672
+"alveolite allergica, esogena",C0002390,perdita di peso,C2363736
+"alveolite allergica, esogena",C0002390,febbre,C0015967
+"alveolite allergica, esogena",C0002390,tosse,C0010200
+"alveolite allergica, esogena",C0002390,difficoltà nel respirare,C0013404
+"alveolite allergica, esogena",C0002390,aumento della frequenza respiratoria,C0231835
+afasia,,problemi di scrittura e lettura,
+afasia,,tendenza a parlare rapidamente,
+afasia,,difficoltà nel ripetere le frasi,
+afasia,C0003550,frasi prive di senso,C0234488
+mastoidite,,dolore alla mascella,
+mastoidite,,vertigini,
+mastoidite,,febbre,
+mastoidite,C0024904,dolore all'orecchio,C0013456
+mastoidite,C0024904,perdita dell'udito,C0018777
+mastoidite,C0024904,febbre,C0015967
+reazione herxheimer,,lesioni cutanee,
+reazione herxheimer,,brividi,
+reazione herxheimer,,dolori muscolari,
+reazione herxheimer,C0259756,febbre,C0015967
+reazione herxheimer,C0259756,mal di testa,C0018681
+reazione herxheimer,C0259756,dolori articolari,C0003862
+reazione herxheimer,C0259756,macchie a rilievo sulla pelle,C0015230
+sclerosi sistemica progressiva,C1258104,edema - accumulo di liquido,C0013604
+sclerosi sistemica progressiva,C1258104,atrofia muscolare,C0026846
+sclerosi sistemica progressiva,C1258104,lividi a chiazze,C0030232
+sclerosi sistemica progressiva,C1258104,capillari visibili,C0235499
+sclerosi sistemica progressiva,C1258104,brividi,C0027121
+sclerosi sistemica progressiva,C1258104,dolore addominale,C0021847
+sclerosi sistemica progressiva,C1258104,alito cattivo,C0549493
+sclerosi sistemica progressiva,C1258104,dolori muscolari e articolari,C0034069
+sclerosi sistemica progressiva,C1258104,miocardite,C0027059
+sclerosi sistemica progressiva,C1258104,dolore alle braccia,C0031046
+sclerosi sistemica progressiva,C1258104,pressione alta,C0020538
+sclerosi sistemica progressiva,,vomito,
+sclerosi sistemica progressiva,,nausea,
+sclerosi sistemica progressiva,C1258104,dolore al fianco,C0035085
+sclerosi sistemica progressiva,C1258104,vertigini,C0155765
+sclerosi sistemica progressiva,C1258104,cambiamenti nella pelle,C0478124
+sclerosi sistemica progressiva,C1258104,atrite,C0003864
+paracheratosi,,pelle biancastra,
+paracheratosi,,desquamazione della pelle,
+paracheratosi,C0030436,dolore al pene,C0033860
+paracheratosi,C0030436,vescicole,C0013595
+morbo di still,C0087031,dolori muscolari e articolari,C0231528
+morbo di still,C0087031,dolori articolari,C0003862
+morbo di still,C0087031,difficoltà nel deglutire,C0011168
+morbo di still,C0087031,nausea e sazietà,C0038002
+morbo di still,C0087031,ingrossamento dei linfonodi,C0497156
+morbo di still,C0087031,febbre,C0015967
+morbo di still,C0087031,macchie a rilievo sulla pelle,C0015230
+morbo di still,C0087031,dolore alle braccia,C0031046
+morbo di still,C0087031,dolore al collo,C0235999
+polmonite legionella,C0023241,brividi,C0085593
+polmonite legionella,C0023241,dolori muscolari e articolari,C0231528
+polmonite legionella,C0023241,tosse,C0010200
+polmonite legionella,C0023241,dolore al petto,C0008031
+polmonite legionella,C0023241,polmonite,C0032285
+polmonite legionella,C0023241,brividi,C0032231
+polmonite legionella,C0023241,febbre,C0015967
+polmonite legionella,C0023241,starnuti,C0035455
+polmonite legionella,C0023241,laringite,C0023067
+polmonite legionella,C0023241,mal di testa,C0018681
+polmonite legionella,C0023241,confusione,C0009676
+polmonite legionella,C0023241,diarrea,C0011991
+sindrome di loefgren,,ingrossamento dei linfonodi,
+sindrome di loefgren,,febbre,
+sindrome di loefgren,,rigidità articolare,
+sindrome di loefgren,,gonfiore alle gambe,
+sindrome di loefgren,C0340164,"arrossamento cutaneo, prurito",C0014743
+sindrome di loefgren,C0340164,atrite,C0003864
+idrope fetale,,lividi,
+idrope fetale,,pallore,
+idrope fetale,,ittero - pelle giallastra,
+idrope fetale,C0020305,accumulo di liquido nell'addome,C0003962
+idrope fetale,C0020305,liquido nella cavità pleurica,C0032227
+idrope fetale,C0020305,difficoltà respiratorie,C0020224
+cardiomiopatia ostruttiva,C0007194,tachicardia,C0085612
+cardiomiopatia ostruttiva,C0007194,vertigini,C0012833
+cardiomiopatia ostruttiva,C0007194,perdita di coscienza ,C0039070
+cardiomiopatia ostruttiva,C0007194,difficoltà nel respirare,C0013404
+cardiomiopatia ostruttiva,C0007194,"dolore al torace, mancanza di ossigeno",C0002962
+sferocitosi,C0553720,anemia - pallore,C0002871
+sferocitosi,C0553720,nausea e sazietà,C0038002
+sferocitosi,C0553720,tendenza al sanguinamento,C0206160
+sferocitosi,C0553720,"Ittero, feci chiare, urine scure (bilirubina)",C0741494
+anemia falciforme,C0002895,anemia - pallore,C0002878
+anemia falciforme,,vomito,
+anemia falciforme,,nausea,
+anemia falciforme,C0002895,dolore al fianco,C0035085
+anemia falciforme,C0002895,gonfiore alle mani,C0575805
+anemia falciforme,C0002895,fegato ingrossato,C0019214
+anemia falciforme,C0002895,suscettibilità alle infezioni,C0236171
+anemia falciforme,C0002895,eruzioni cutanee,C0243026
+anemia falciforme,C0002895,osteoporosi,C0029456
+anemia falciforme,C0002895,sangue nelle urine,C0018965
+anemia falciforme,C0002895,insufficienza renale,C1565489
+anemia aplastica,C0002874,anemia - pallore,C0002871
+anemia aplastica,C0002874,mal di gola,C0001824
+anemia aplastica,C0002874,numerosi puntini rossi sulla pelle,C0040034
+anemia aplastica,C0002874,lividi a chiazze,C0030232
+anemia aplastica,C0002874,difficoltà nel respirare,C0013404
+anemia aplastica,C0002874,affaticamento,C0015672
+anemia aplastica,C0002874,suscettibilità alle infezioni,C0236171
+anemia aplastica,C0002874,febbre,C0015967
+anemia aplastica,C0002874,sensazione di bruciore,C0026946
+anemia aplastica,C0002874,numerosi puntini rossi sulla pelle,C0031256
+anemia aplastica,C0002874,sanguinamento dalle gengive,C0017565
+anemia aplastica,C0002874,sangue dal naso,C0014591
+leucemia a cellule capellute,,perdita di peso,
+leucemia a cellule capellute,,dolori alle ossa,
+leucemia a cellule capellute,,dolori articolari,
+leucemia a cellule capellute,,mal di testa,
+leucemia a cellule capellute,,stanchezza,
+leucemia a cellule capellute,,sudorazione notturna,
+leucemia a cellule capellute,C0023443,febbre,C0030312
+leucemia a cellule capellute,C0023443,nausea e sazietà,C0038002
+leucemia a cellule capellute,C0023443,suscettibilità alle infezioni,C0236171
+sindrome di sezary,C0036920,ingrossamento dei linfonodi,C0497156
+sindrome di sezary,C0036920,prurito,C0033774
+sindrome di sezary,C0036920,macchie rosso vivo sulle pelle,C0011606
+sindrome di sezary,C0036920,verruche,C0870082
+sindrome di sezary,C0036920,perdita dei capelli,C0002170
+sindrome di sezary,C0036920,unghie deboli,C0221260
+leucemia acuta,C0085669,stanchezza - fatica,C0015672
+leucemia acuta,C0085669,febbre,C0015967
+leucemia acuta,C0085669,sudore notturno,C0028081
+leucemia acuta,C0085669,mal di gola,C0001824
+leucemia acuta,C0085669,sensazione di bruciore,C0026946
+leucemia acuta,C0085669,anemia - pallore,C0002871
+leucemia acuta,C0085669,lividi a chiazze,C0030232
+leucemia acuta,C0085669,difficoltà nel respirare,C0013404
+leucemia acuta,C0085669,affaticamento,C0015672
+leucemia acuta,C0085669,numerosi puntini rossi sulla pelle,C0040034
+leucemia acuta,C0085669,ingrossamento dei linfonodi,C0497156
+leucemia acuta,C0085669,nausea e sazietà,C0038002
+leucemia acuta,C0085669,gonfiore alla gengive,C0017574
+sindrome di fabry,C0002986,cornea verticillata,C1706559
+sindrome di fabry,C0002986,diarrea,C0011991
+sindrome di fabry,C0002986,costipazione,C0009806
+sindrome di fabry,C0002986,ronzio nelle orecchie,C0040264
+sindrome di fabry,C0002986,perdita dell'udito,C0494562
+sindrome di fabry,C0002986,difficoltà nel parlare,C0007787
+sindrome di fabry,C0002986,tachicardia,C0038454
+ipersplenismo,,gengive ritirate,
+ipersplenismo,,dolore ai talloni,
+ipersplenismo,,gengive arrossate,
+ipersplenismo,C0020532,nausea e sazietà,C0038002
+ipersplenismo,C0020532,anemia - pallore,C0010828
+porpora trombocitopenica immune,C0398650,numerosi puntini rossi sulla pelle,C0031256
+porpora trombocitopenica immune,C0398650,sangue dal naso,C0014591
+porpora trombocitopenica immune,C0398650,dolori addominali,C0025323
+endocardite infettiva,C0014121,febbre,C0015967
+endocardite infettiva,C0014121,tachicardia,C0039239
+endocardite infettiva,C0014121,brividi,C0085593
+endocardite infettiva,C0014121,debolezza,C3714552
+endocardite infettiva,C0014121,perdita di appetito,C0003123
+endocardite infettiva,C0014121,perdita di peso,C2363736
+endocardite infettiva,C0014121,sudore,C0038990
+endocardite infettiva,C0014121,dolori articolari,C0003862
+endocardite infettiva,C0014121,difficoltà nel respirare,C0018808
+endocardite infettiva,C0014121,insufficienza cardiaca,C0018801
+endocardite infettiva,C0014121,liquido nei polmoni,C0034063
+endocardite infettiva,C0014121,blocco della coscia sinistra,C0023211
+endocardite infettiva,C0014121,dolore al petto,C0031039
+endocardite infettiva,C0014121,numerosi puntini rossi sulla pelle,C0031256
+endocardite infettiva,C0014121,foruncoli,C0042384
+endocardite infettiva,C0014121,ingrossamento dell'ultima falange,C0009080
+endocardite infettiva,C0014121,sangue nelle urine,C0018965
+endocardite infettiva,,vomito,
+endocardite infettiva,,nausea,
+endocardite infettiva,C0014121,dolore al fianco,C0035085
+endocardite infettiva,C0014121,nausea e sazietà,C0038002
+endocardite infettiva,C0014121,anemia - pallore,C0002871
+endocardite infettiva,C0014121,dolore alle braccia,C0023518
+endocardite infettiva,C0014121,numerosi puntini rossi sulla pelle,C0040034
+febbre reumatica,C0035436,febbre,C0015967
+febbre reumatica,C0035436,mal di testa,C0018681
+febbre reumatica,C0035436,sudore,C0038990
+febbre reumatica,C0035436,dolori articolari,C0162323
+febbre reumatica,C0035436,eritema anulare,C0234906
+febbre reumatica,C0035436,eritemi,C0041834
+febbre reumatica,C0035436,"arrossamento cutaneo, prurito",C0014743
+febbre reumatica,C0035436,miocardite,C0027059
+febbre reumatica,C0035436,dolore alle braccia,C0031046
+stenosi della valvola mitrale,C0026269,tachicardia,C0004238
+stenosi della valvola mitrale,C0026269,embolie,C0013922
+stenosi della valvola mitrale,C0026269,congestione polmonare,C0242073
+stenosi della valvola mitrale,C0026269,ipertensione polmonare,C0020542
+stenosi della valvola mitrale,C0026269,difficoltà nel respirare,C0231807
+stenosi della valvola mitrale,C0026269,tosse,C0010200
+stenosi della valvola mitrale,C0026269,reflusso,C1956414
+stenosi della valvola mitrale,C0026269,fegato ingrossato,C0156195
+stenosi della valvola mitrale,C0026269,urine schiumose,C0033687
+stenosi della valvola mitrale,C0026269,edema - accumulo di liquido,C0013604
+stenosi della valvola mitrale,C0026269,stanchezza - fatica,C0015672
+stenosi della valvola mitrale,C0026269,cianosi - colorito bluastro-violaceo di pelle,C0010520
+stenosi della valvola mitrale,C0026269,difficoltà nel respirare,C0013404
+stenosi della valvola mitrale,C0026269,tosse,C0010200
+insufficienza della valvola mitrale,C0026266,difficoltà nel respirare,C0013404
+insufficienza della valvola mitrale,C0026266,palpitazioni,C0030252
+insufficienza della valvola mitrale,C0026266,tosse notturna,C0231912
+insufficienza della valvola mitrale,C0026266,liquido nei polmoni,C0034063
+prolasso della valvola mitrale,C0026267,sensazione di un battito mancante o doppio,C0151636
+prolasso della valvola mitrale,C0026267,tachicardia,C0039239
+prolasso della valvola mitrale,C0026267,perdita di coscienza ,C0039070
+prolasso della valvola mitrale,C0026267,stanchezza - fatica,C0015672
+prolasso della valvola mitrale,C0026267,affaticamento,C0015672
+prolasso della valvola mitrale,C0026267,paura,C0003467
+stenosi aortica,C0003507,vampate di calore,C0013404
+stenosi aortica,C0003507,"dolore al torace, mancanza di ossigeno",C0002962
+stenosi aortica,C0003507,vertigini,C0012833
+stenosi aortica,C0003507,perdita di coscienza ,C0039070
+stenosi aortica,C0003507,affaticamento,C0015672
+stenosi aortica,C0003507,"dolore al torace, mancanza di ossigeno",C0002962
+stenosi polmonare,C1956257,stanchezza - fatica,C0015672
+stenosi polmonare,C1956257,difficoltà nel respirare,C0013404
+stenosi polmonare,C1956257,insufficienza cardiaca,C0018801
+stenosi polmonare,C1956257,svenimento,C0002962
+stenosi polmonare,C1956257,vertigini,C0012833
+stenosi polmonare,C1956257,perdita di coscienza ,C0039070
+difetto del setto atriale,C0018817,stanchezza - fatica,C0015672
+difetto del setto atriale,C0018817,affaticamento,C0015672
+difetto del setto atriale,C0018817,difficoltà nel respirare,C0231807
+difetto del setto atriale,C0018817,palpitazioni,C0030252
+difetto del setto atriale,C0018817,"dolore al torace, mancanza di ossigeno",C0002962
+difetto del setto atriale,C0018817,disturbi alla vista,C0038454
+difetto del setto atriale,C0018817,insufficienza cardiaca destra,C0235527
+difetto del setto ventricolare,C0018818,ritardo dello sviluppo,C0424605
+difetto del setto ventricolare,C0018818,difficoltà nel respirare,C0231807
+difetto del setto ventricolare,C0018818,infezione broncopolmonare,C0948783
+difetto del setto ventricolare,C0018818,palpitazioni,C0030252
+difetto del setto ventricolare,C0018818,insufficienza cardiaca,C0018801
+difetto del setto ventricolare,C0018818,cianosi - colorito bluastro-violaceo di pelle,C0010520
+difetto del setto ventricolare,C0018818,difficoltà nel respirare,C0013404
+difetto del setto ventricolare,C0018818,stanchezza - fatica,C0015672
+difetto del setto ventricolare,C0018818,insufficienza cardiaca destra,C0235527
+difetto del setto ventricolare,C0018818,perdita di coscienza ,C0039070
+difetto del setto ventricolare,C0018818,unghie fragili,C0149651
+difetto del setto ventricolare,C0018818,ingrossamento dell'ultima falange,C0009080
+difetto del setto ventricolare,C0018818,"vertigini, capogiri e confusione",C0020649
+anomalia di ebstein,C0013481,difficoltà nel respirare,C0013404
+anomalia di ebstein,C0013481,affaticamento,C0015672
+anomalia di ebstein,C0013481,mal di cuore,C0002962
+anomalia di ebstein,C0013481,palpitazioni,C0030252
+anomalia di ebstein,C0013481,cianosi - colorito bluastro-violaceo di pelle,C0010520
+anomalia di ebstein,C0013481,fegato ingrossato,C0019209
+tetralogia di fallot,C0039685,vampate di calore,C0013404
+tetralogia di fallot,C0039685,capogiri,C0857375
+tetralogia di fallot,C0039685,stanchezza - fatica,C0015672
+tetralogia di fallot,C0039685,ritardo dello sviluppo,C0424605
+tetralogia di fallot,C0039685,insufficienza cardiaca destra,C0235527
+sindrome di marfan,C0024796,scoliosi,C0036439
+sindrome di marfan,C0024796,prolasso della valvola mitrale,C0026267
+sindrome di marfan,C0024796,scoliosi,C0036439
+sindrome di marfan,C0024796,dita molto lunghe,C0003706
+sindrome di marfan,C0024796,dolore ai piedi,C0392477
+sindrome di marfan,C0024796,stanchezza,C0026266
+intossicazione da digitale,C0151595,nausea,C0027497
+intossicazione da digitale,C0151595,diarrea,C0011991
+intossicazione da digitale,C0151595,disturbi alla vista,C0547030
+intossicazione da digitale,C0151595,perdita di coscienza,C0085610
+intossicazione da digitale,C0151595,tachicardia,C0030587
+cardiomiopatia dilatativa,,tosse secca,
+cardiomiopatia dilatativa,,debolezza,
+cardiomiopatia dilatativa,,pallore,
+cardiomiopatia dilatativa,C0007193,insufficienza cardiaca,C0023212
+cardiomiopatia dilatativa,C0007193,difficoltà nel respirare,C0231807
+malattia di chagas,C0041234,febbre,C0015967
+malattia di chagas,C0041234,stanchezza - fatica,C0015672
+malattia di chagas,C0041234,nausea e sazietà,C0038002
+malattia di chagas,C0041234,fegato ingrossato,C0019209
+malattia di chagas,C0041234,ingrossamento dei linfonodi,C0497156
+malattia di chagas,C0041234,miocardite,C0027059
+malattia di chagas,C0041234,difficoltà nel deglutire,C0192389
+malattia di chagas,C0041234,"fiato corto, alterazione battiti del cuore",C0018800
+malattia di chagas,C0041234,rigurgito,C0025164
+malattia di chagas,C0041234,diarrea,C0025160
+tamponamento cardiaco,,agitazione,
+tamponamento cardiaco,,ansia,
+tamponamento cardiaco,,tachicardia,
+tamponamento cardiaco,,svenimento,
+tamponamento cardiaco,C0007177,perdita di coscienza,C1168392
+tamponamento cardiaco,C0007177,debolezza,C0232118
+tamponamento cardiaco,C0007177,difficoltà nel respirare,C0231807
+tamponamento cardiaco,C0007177,"vertigini, capogiri e confusione",C0020649
+tamponamento cardiaco,C0007177,dolore al torace,C0232118
+tamponamento cardiaco,C0007177,tachicardia,C0039239
+pericardite cronica costrittiva,C0265144,aumento della pressione,C1168392
+pericardite cronica costrittiva,C0265144,dolore al dorso,C0232118
+pericardite cronica costrittiva,C0265144,fegato ingrossato,C0019209
+pericardite cronica costrittiva,C0265144,edema - accumulo di liquido,C0013604
+pericardite cronica costrittiva,C0265144,dolore alle spalle,C0020532
+pericardite cronica costrittiva,C0265144,difficoltà nel respirare,C0231807
+pericardite cronica costrittiva,C0265144,palpitazioni,C0232118
+infarto,C0027051,"dolore al torace, mancanza di ossigeno",C0002962
+infarto,C0027051,debolezza,C3714552
+infarto,C0027051,paura,C0003467
+infarto,C0027051,sudore,C0038990
+infarto,C0027051,nausea,C0027497
+infarto,C0027051,vomito,C0042963
+infarto,C0027051,tachicardia,C0042514
+infarto,C0027051,sensazione di mancamento,C0042510
+infarto,C0027051,"vertigini, capogiri e confusione",C0020649
+infarto,C0027051,"dolore al torace, mancanza di ossigeno",C0002962
+broncopneumopatia cronica ostruttiva,,brividi,
+broncopneumopatia cronica ostruttiva,,febbre,
+broncopneumopatia cronica ostruttiva,,fiato corto,
+broncopneumopatia cronica ostruttiva,,produzione di muco,
+broncopneumopatia cronica ostruttiva,,dolore durante la deglutizione,
+broncopneumopatia cronica ostruttiva,C0024117,tosse,C0010200
+broncopneumopatia cronica ostruttiva,C0024117,difficoltà nel respirare,C0231807
+infezioni da pneumococco,,febbre,
+infezioni da pneumococco,,sonnolenza,
+infezioni da pneumococco,C0032269,polmonite,C0032285
+infezioni da pneumococco,C0032269,meningite,C0025289
+infezioni da pneumococco,C0032269,dolore all'orecchio,C0029882
+infezioni da pneumococco,C0032269,sinusite,C0037199
+infezioni da pneumococco,C0032269,congiuntivite,C0009763
+infezioni da pneumococco,C0032269,occhi arrossati,C0010043
+infezione da micoplasma,,brividi,
+infezione da micoplasma,,febbre,
+infezione da micoplasma,,fiato corto,
+infezione da micoplasma,,produzione di muco,
+infezione da micoplasma,,dolore durante la deglutizione,
+infezione da micoplasma,,tosse,
+infezione da micoplasma,C0026936,difficoltà nel respirare,C0040586
+infezione da micoplasma,C0026936,polmonite,C0032285
+infezione da chlamydia,,dolore e bruciore mentre si urina,
+infezione da chlamydia,,prurito genitale,
+infezione da chlamydia,C1096584,faringite,C0031350
+infezione da chlamydia,C1096584,sinusite,C0037199
+ornitosi,C0029291,debolezza,C0032285
+ornitosi,C0029291,brividi,C0085593
+ornitosi,,dolore al torace,
+ornitosi,C0029291,febbre,C0015967
+ornitosi,C0029291,dolori muscolari e articolari,C0231528
+ornitosi,C0029291,mal di testa,C0018681
+ornitosi,C0029291,sangue dal naso,C0014591
+ornitosi,C0029291,tosse,C0010200
+ornitosi,C0029291,macchie a rilievo sulla pelle,C0015230
+ornitosi,C0029291,nausea e sazietà,C0038002
+febbre q,C0034362,febbre,C0015967
+febbre q,C0034362,mal di testa,C0018681
+febbre q,C0034362,polmonite,C0032285
+febbre q,C0034362,brividi,C0085593
+febbre q,C0034362,dolori muscolari e articolari,C0231528
+febbre q,C0034362,dolori articolari,C0003862
+febbre q,C0034362,tosse secca,C0850149
+febbre q,C0034362,macchie a rilievo sulla pelle,C0015230
+febbre q,C0034362,"dolore al torace, mancanza di ossigeno",C0002962
+infezione da bacillus anthracis,,dolore addominale,
+infezione da bacillus anthracis,,diarrea,
+infezione da bacillus anthracis,,sangue nelle feci,
+infezione da bacillus anthracis,,vomito,
+infezione da bacillus anthracis,,nausea,
+infezione da bacillus anthracis,C0003175,broncopolmonite,C0006285
+infezione da bacillus anthracis,C0003175,febbre,C0015967
+infezione da bacillus anthracis,C0003175,brividi,C0085593
+infezione da bacillus anthracis,C0003175,tosse,C0010200
+infezione da bacillus anthracis,C0003175,sonnolenza,C0242184
+infezioni da virus respiratorio sinciziale,C0035235,incapacità di percepire gli odori,C0009443
+infezioni da virus respiratorio sinciziale,C0035235,faringite,C0031350
+infezioni da virus respiratorio sinciziale,,brividi,
+infezioni da virus respiratorio sinciziale,,febbre,
+infezioni da virus respiratorio sinciziale,,fiato corto,
+infezioni da virus respiratorio sinciziale,,produzione di muco,
+infezioni da virus respiratorio sinciziale,C0035235,dolore durante la deglutizione,C0040586
+infezioni da virus respiratorio sinciziale,C0035235,tosse,C0043167
+infezioni da virus respiratorio sinciziale,C0035235,polmonite,C0032285
+polmonite da pneumocystis,C1535939,difficoltà nel respirare,C0013404
+polmonite da pneumocystis,C1535939,aumento della frequenza respiratoria,C0231835
+polmonite da pneumocystis,C1535939,tosse,C0010200
+polmonite da pneumocystis,C1535939,febbre,C0015967
+sindrome di Mendelson,,oppressione toracica,
+sindrome di Mendelson,C0085740,rantoli durante la respirazione,C0006266
+sindrome di Mendelson,C0085740,voce rauca,C0392315
+sindrome di Mendelson,C0085740,cianosi - colorito bluastro-violaceo di pelle,C0010520
+sindrome di Mendelson,C0085740,difficoltà nel respirare,C0013404
+sindrome di Mendelson,C0085740,tachicardia,C0039239
+sindrome di Mendelson,C0085740,"vertigini, capogiri e confusione",C0020649
+silicosi,,oppressione toracica,
+silicosi,,fiato corto,
+silicosi,,stanchezza,
+silicosi,,cianosi - colorito bluastro-violaceo di pelle,
+silicosi,C0037116,difficoltà nel respirare,C0231807
+carcinoma bronchiale,C0007121,dolore al petto,C0008031
+carcinoma bronchiale,C0007121,rientro del bulbo oculare,C0014306
+carcinoma bronchiale,C0007121,debolezza alle gambe,C0011633
+carcinoma bronchiale,C0007121,ingrossamento dell'ultima falange,C0009080
+carcinoma bronchiale,C0007121,unghie fragili,C0149651
+carcinoma bronchiale,C0007121,dolori articolari,C0003862
+carcinoma bronchiale,C0007121,tosse,C0010200
+carcinoma bronchiale,C0007121,senso di soffocamento,C0038450
+carcinoma bronchiale,C0007121,sangue durante la tosse,C0019079
+carcinoma bronchiale,C0007121,difficoltà nel deglutire,C0011168
+carcinoma bronchiale,C0007121,perdita di peso,C2363736
+carcinoma bronchiale,C0007121,tosse,C0010200
+carcinoma bronchiale,C0007121,dolore al petto,C0008031
+carcinoma bronchiale,C0007121,tosse cronica,C0010201
+carcinoma bronchiale,C0007121,difficoltà nel respirare,C0013404
+carcinoma bronchiale,C0007121,unghie fragili,C0149651
+carcinoma bronchiale,C0007121,ingrossamento dell'ultima falange,C0009080
+carcinoma bronchiale,C0007121,difficoltà nel deglutire,C0011168
+carcinoma bronchiale,C0007121,raucedine,C0019825
+carcinoma bronchiale,C0007121,dolore al petto,C0008031
+carcinoma bronchiale,C0007121,perdita di peso,C2363736
+carcinoma bronchiale,C0007121,tosse,C0010200
+sarcoidosi,,affaticamento,
+sarcoidosi,,perdita di peso,
+sarcoidosi,,malessere generale,
+sarcoidosi,C0036202,atrite,C0003864
+sarcoidosi,C0036202,"arrossamento cutaneo, prurito",C0014743
+sarcoidosi,C0036202,febbre,C0015967
+sarcoidosi,C0036202,tosse,C0010200
+acalasia,C1321756,difficoltà nel deglutire,C0011168
+acalasia,C1321756,rigurgito,C2004489
+acalasia,,eccessiva salivazione,
+acalasia,,dolore al torace,
+acalasia,C1321756,alito cattivo,C0018520
+acalasia,C1321756,nausea e sazietà,C3714614
+diverticolo esofageo,C0014854,dolore alla pressione,C0234233
+diverticolo esofageo,C0014854,difficoltà nel deglutire,C0011168
+diverticolo esofageo,C0014854,rigurgito,C2004489
+diverticolo esofageo,C0014854,alito cattivo,C0018520
+diverticolo esofageo,C0014854,perdita di saliva,C0267072
+diverticolo esofageo,C0014854,rigurgito,C2004489
+carcinoma gastrico,C0024623,anoressia,C0003123
+carcinoma gastrico,C0024623,fegato ingrossato,C0019209
+carcinoma gastrico,C0024623,ittero - pelle giallastra,C0022346
+carcinoma gastrico,C0024623,accumulo di liquido nell'addome,C0003962
+carcinoma gastrico,C0024623,perdita di peso,C2363736
+carcinoma gastrico,C0024623,nausea,C0027497
+carcinoma gastrico,C0024623,sensazione di pressione,C0234222
+carcinoma gastrico,C0024623,stanchezza - fatica,C0015672
+carcinoma gastrico,C0024623,difficoltà nel deglutire,C0011168
+carcinoma gastrico,C0024623,vomito,C0042963
+carcinoma gastrico,C0024623,perdita di peso,C0232462
+sindrome da perdita di proteine,C0016470,orticaria,C0042109
+sindrome da perdita di proteine,C0016470,prurito,C0033774
+sindrome da perdita di proteine,C0016470,macchie a rilievo sulla pelle,C0015230
+sindrome da perdita di proteine,C0016470,attacco d'asma,C0038218
+sindrome da perdita di proteine,C0016470,starnuti,C0035455
+sindrome da perdita di proteine,C0016470,incapacità di percepire gli odori,C0009443
+sindrome da perdita di proteine,C0016470,ostruzione nasale,C0027429
+sindrome da perdita di proteine,C0016470,tachicardia,C0039239
+sindrome da perdita di proteine,C0016470,"vertigini, capogiri e confusione",C0020649
+sindrome da perdita di proteine,C0302858,diarrea,C0011991
+sindrome da perdita di proteine,C0302858,feci untuose,C0038238
+sindrome da perdita di proteine,C0302858,perdita di peso,C2363736
+sindrome da perdita di proteine,C0302858,feci untuose,C0024523
+sindrome da perdita di proteine,C0302858,edema - accumulo di liquido,C0013604
+sindrome da perdita di proteine,C0302858,liquido nella cavità pleurica,C0032227
+sindrome da perdita di proteine,C0302858,accumulo di liquido nell'addome,C0003962
+colite ulcerosa,,dolore anale,
+colite ulcerosa,,sudorazione notturna,
+colite ulcerosa,,sangue nelle feci,
+colite ulcerosa,C0009324,diarrea,C0011991
+colite ulcerosa,C0009324,anemia - pallore,C0002871
+colite ulcerosa,C0009324,dolore addominale,C0000737
+colite ulcerosa,C0009324,febbre,C0015967
+colite microscopica,C0400821,diarrea,C0011991
+colite microscopica,C0400821,perdita di peso,C2363736
+colite microscopica,C0400821,dolore addominale,C0000737
+colite microscopica,C0400821,nausea,C0027497
+colite microscopica,C0400821,pancia gonfia,C1291077
+intestino irritabile,C0022104,dolore al petto,C0030193
+intestino irritabile,C0022104,sensazione di pressione,C0234222
+intestino irritabile,C0022104,nausea e sazietà,C3714614
+intestino irritabile,C0022104,pancia gonfia,C1291077
+intestino irritabile,C0022104,flatulenza,C0016204
+intestino irritabile,C0022104,costipazione,C0009806
+intestino irritabile,C0022104,diarrea,C0011991
+pancreatite acuta,C0001339,dolore addominale,C0000737
+pancreatite acuta,C0001339,nausea,C0027497
+pancreatite acuta,C0001339,vomito,C0042963
+pancreatite acuta,C0001339,pancia gonfia,C1291077
+pancreatite acuta,C0001339,accumulo di liquido nell'addome,C0003962
+pancreatite acuta,C0001339,febbre,C0015967
+pancreatite acuta,C0001339,"vertigini, capogiri e confusione",C0020649
+pancreatite acuta,C0001339,liquido nella cavità pleurica,C0032227
+pancreatite acuta,C0001339,ittero - pelle giallastra,C0022346
+pancreatite acuta,C0001339,incapacità nel deglutire,C0919671
+pancreatite cronica,C0149521,nausea,C0027497
+pancreatite cronica,C0149521,vomito,C0042963
+pancreatite cronica,C0149521,perdita di peso,C2363736
+pancreatite cronica,C0149521,pancia gonfia,C1291077
+pancreatite cronica,C0149521,diarrea,C0011991
+pancreatite cronica,C0149521,ittero - pelle giallastra,C0022346
+carcinoma neuroendocrino,C0206695,rossore,C0016382
+carcinoma neuroendocrino,C0206695,cianosi - colorito bluastro-violaceo di pelle,C0010520
+carcinoma neuroendocrino,C0206695,tachicardia,C0039239
+carcinoma neuroendocrino,C0206695,sudore,C0038990
+carcinoma neuroendocrino,C0206695,incapacità nel deglutire,C0919671
+carcinoma neuroendocrino,C0206695,diarrea,C0011991
+carcinoma neuroendocrino,C0206695,perdita di peso,C2363736
+carcinoma neuroendocrino,C0206695,attacco d'asma,C0038218
+carcinoma neuroendocrino,C0206695,capillari visibili,C0235499
+carcinoma neuroendocrino,C0206695,cambiamenti nella pelle,C0478124
+insulinoma,C0021670,sudore,C0038990
+insulinoma,C0021670,palpitazioni,C0030252
+insulinoma,C0021670,tachicardia,C0039239
+insulinoma,C0021670,tremori,C0542247
+insulinoma,C0021670,paura,C0003467
+insulinoma,C0021670,aumento dell'appetito,C0006370
+insulinoma,C0021670,nausea,C0027497
+insulinoma,C0021670,disturbi alla vista,C0547030
+insulinoma,C0021670,vertigini,C0012833
+insulinoma,C0021670,mal di testa,C0018681
+insulinoma,C0021670,confusione,C0009676
+insulinoma,C0021670,perdita della sensibilità,C0852415
+insulinoma,C0021670,difficoltà nel leggere,C0003537
+insulinoma,C0021670,aumento di peso,C0043094
+verner - sindrome di Morrison,C0086768,diarrea,C0011991
+verner - sindrome di Morrison,C0086768,affaticamento,C0020621
+verner - sindrome di Morrison,C0086768,bruciore di stomaco,C0079581
+verner - sindrome di Morrison,C0086768,perdita di peso,C2363736
+verner - sindrome di Morrison,C0086768,confusione,C0009676
+"epatite, cronica",C0019189,affaticamento,C0015672
+"epatite, cronica",C0019189,perdita di appetito,C0003123
+"epatite, cronica",C0019189,dolore alla pressione,C0234233
+"epatite, cronica",C0019189,dolori articolari,C0003862
+"epatite, cronica",C0019189,ittero - pelle giallastra,C0022346
+"epatite, cronica",C0019189,fegato ingrossato,C0019209
+"epatite, cronica",C0019189,prurito,C0033774
+"epatite, cronica",C0019189,capillari visibili,C0235499
+"epatite, cronica",C0019189,assenza del ciclo,C0002453
+"epatite, cronica",C0019189,atrofia testicolare,C0156312
+"epatite, cronica",C0019189,ginecomastia,C0018418
+malattia epatica alcolica,C0023896,fegato ingrossato,C0019209
+malattia epatica alcolica,C0023896,nausea e sazietà,C0038002
+malattia epatica alcolica,C0023896,perdita di appetito,C0003123
+malattia epatica alcolica,C0023896,nausea,C0027497
+malattia epatica alcolica,C0023896,perdita di peso,C2363736
+malattia epatica alcolica,C0023896,ittero - pelle giallastra,C0022346
+malattia epatica alcolica,C0023896,febbre,C0015967
+"insufficienza epatica, acuta",C0162557,disturbi della coscienza,C0947927
+"insufficienza epatica, acuta",C0162557,sonnolenza,C0013144
+"insufficienza epatica, acuta",C0162557,coma,C0009421
+"insufficienza epatica, acuta",C0162557,ittero - pelle giallastra,C0022346
+"insufficienza epatica, acuta",C0162557,alito cattivo,C0239571
+"insufficienza epatica, acuta",C0162557,tendenza al sanguinamento,C0019087
+"insufficienza epatica, acuta",C0162557,"vertigini, capogiri e confusione",C0020649
+"insufficienza epatica, acuta",C0162557,palpitazioni,C0020578
+glomerulonefrite post-infettiva,C3805004,sangue nelle urine,C0239937
+glomerulonefrite post-infettiva,C3805004,edema - accumulo di liquido,C0013604
+glomerulonefrite post-infettiva,C3805004,pressione alta,C0020538
+glomerulonefrite post-infettiva,C3805004,sangue nelle urine,C0018965
+glomerulonefrite post-infettiva,C3805004,edema facciale,C0542571
+glomerulonefrite post-infettiva,C3805004,mal di testa,C0018681
+glomerulonefrite post-infettiva,C3805004,febbre,C0015967
+glomerulonefrite post-infettiva,C3805004,attacco epilettico,C0014544
+glomerulonefrite post-infettiva,C3805004,sonnolenza,C0013144
+glomerulonefrite post-infettiva,C3805004,difficoltà nel respirare,C0013404
+glomerulonefrite post-infettiva,C3805004,liquido nei polmoni,C0034063
+glomerulonefrite post-infettiva,C3805004,urine schiumose,C0033687
+sindrome nefritica rapida - progressiva,C0451728,lividi a chiazze,C0030232
+sindrome nefritica rapida - progressiva,C0451728,pressione alta,C0020538
+sindrome nefritica rapida - progressiva,C0451728,urine schiumose,C0033687
+sindrome nefritica rapida - progressiva,C0451728,sindrome nefrosica,C0027726
+sindrome nefritica rapida - progressiva,C0451728,insufficienza renale,C1565489
+sindrome da osteopatia renale,,mal di schiena,
+sindrome da osteopatia renale,,fatica,
+sindrome da osteopatia renale,,capogiri,
+sindrome da osteopatia renale,,sfoghi cutanei,
+sindrome da osteopatia renale,C3805154,dolore alle ossa,C0151825
+sindrome da osteopatia renale,C3805154,debolezza nelle braccia,C0947912
+nefroblastoma,C0027708,dolore addominale,C0000737
+nefroblastoma,C0027708,perdita di appetito,C0003123
+nefroblastoma,C0027708,vomito,C0042963
+nefroblastoma,C0027708,febbre,C0015967
+nefroblastoma,C0027708,sangue nelle urine,C0018965

@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <title>Salvami la vita - Dashboard sito</title>
+
+  <link rel="apple-touch-icon" sizes="57x57" href="dist/img/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="dist/img/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="dist/img/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="dist/img/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="dist/img/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="dist/img/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="dist/img/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="dist/img/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="dist/img/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="dist/img/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="dist/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="dist/img/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="dist/img/favicon-16x16.png">
+  <link rel="manifest" href="dist/img/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="dist/img/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+    
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
+  <!-- jsGrid -->
+  <link rel="stylesheet" href="plugins/jsgrid/jsgrid.min.css">
+  <link rel="stylesheet" href="plugins/jsgrid/jsgrid-theme.min.css">
+  <!-- overlayScrollbars -->
+  <link rel="stylesheet" href="plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="dist/css/adminlte.min.css">
+  <!-- Google Font: Source Sans Pro -->
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+  <!-- SweetAlert2 -->
+  <link rel="stylesheet" href="plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css">
+  <!-- Toastr -->
+  <link rel="stylesheet" href="plugins/toastr/toastr.min.css">
+  <!-- Ionicons -->
+  <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+
+  <!-- My functions -->
+  <script src='dist/js/myApp.js'></script>
+
+</head>
+<body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed">
+<div class="wrapper">
+  <div class="row">
+
+    <div class="col-md-2">
+      <a class="nav-link text-primary" href='index.html'><b>Salvami</b> la Vita</a>
+    </div>
+
+    <div class="col-md-4 offset-md-6 mt-2">
+      
+    </div>
+
+  </div>
+
+    <!-- Main content -->
+    <section class="content">
+
+      <section class='content-header'>
+        <div class='container-fluid'>
+          <div class='row mb-2'>
+            <div class='col-sm-6'>
+              <!-- <h1>Profile</h1> -->
+              <h1>Dashboard Amministrazione </h1>
+            </div>
+            <div class='col-sm-6'>
+              <ol class='breadcrumb float-sm-right'>
+                <li class='breadcrumb-item'><a href='login.html'>Login</a></li>
+                <li class='breadcrumb-item active'>Amministrazione</li>
+              </ol>
+            </div>
+          </div>
+        </div><!-- /.container-fluid -->
+      </section>
+
+
+      <div class="container-fluid">
+        <!-- Info boxes -->
+        <div class="row">
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="info-box">
+              <span class="info-box-icon bg-info elevation-1"><i class="fas fa-cog"></i></span>
+
+              <div class="info-box-content">
+                <span class="info-box-text">CPU Traffic</span>
+                <span class="info-box-number">
+                  10
+                  <small>%</small>
+                </span>
+              </div>
+              <!-- /.info-box-content -->
+            </div>
+            <!-- /.info-box -->
+          </div>
+          <!-- /.col -->
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="info-box mb-3">
+              <span class="info-box-icon bg-danger elevation-1"><i class="fas fa-thumbs-up"></i></span>
+
+              <div class="info-box-content">
+                <span class="info-box-text">Likes</span>
+                <span class="info-box-number">41,410</span>
+              </div>
+              <!-- /.info-box-content -->
+            </div>
+            <!-- /.info-box -->
+          </div>
+          <!-- /.col -->
+
+          <!-- fix for small devices only -->
+          <div class="clearfix hidden-md-up"></div>
+
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="info-box mb-3">
+              <span class="info-box-icon bg-success elevation-1"><i class="fas fa-shopping-cart"></i></span>
+
+              <div class="info-box-content">
+                <span class="info-box-text">Sales</span>
+                <span class="info-box-number">760</span>
+              </div>
+              <!-- /.info-box-content -->
+            </div>
+            <!-- /.info-box -->
+          </div>
+          <!-- /.col -->
+          <div class="col-12 col-sm-6 col-md-3">
+            <div class="info-box mb-3">
+              <span class="info-box-icon bg-warning elevation-1"><i class="fas fa-users"></i></span>
+
+              <div class="info-box-content">
+                <span class="info-box-text">New Members</span>
+                <span class="info-box-number">2,000</span>
+              </div>
+              <!-- /.info-box-content -->
+            </div>
+            <!-- /.info-box -->
+          </div>
+          <!-- /.col -->
+        </div>
+        <!-- /.row -->
+
+
+        <!-- Main row -->
+        <div class="row">
+          <!-- Left col -->
+          <div class="col-md-12">
+
+            <!-- TABLE -->
+            <div class="card">
+              <div class="card-header border-transparent">
+                <h3 class="card-title">Lista utenti</h3>
+
+                <div class="card-tools">
+                  <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                    <i class="fas fa-minus"></i>
+                  </button>
+                  <button type="button" class="btn btn-tool" data-card-widget="remove">
+                    <i class="fas fa-times"></i>
+                  </button>
+                </div>
+              </div>
+              <!-- /.card-header -->
+              <div class="card-body p-0">
+
+                <div class="table-responsive">
+                  <table id="userTable" class="table m-0">
+                    <thead>
+                      <tr>
+                        <th>ID</th>
+                        <th>Foto</th>
+                        <th>Nominativo</th>
+                        <th>Account</th>
+                        <th>Codice Fiscale</th>
+                        <th>E-Mail</th>
+                      </tr>
+                      </thead>
+                    <tbody id="userTableBody">
+                        <tr>
+                          <td><a href='#'>1</a></td>
+                          <td>Fiorenzo Margiotta</td>
+                          <td><span class='badge badge-success'>active</span>
+                          <td>MRGFNZ78M21I086V</td>
+                          <td>fiorenzomargiotta1978@mail.it</td>
+                        </tr>
+                        <tr>
+                          <td><a href='#'>2</a></td>
+                          <td>Vita Masala</td>
+                          <td><span class='badge badge-success'>active</span>
+                          <td>MSLVTI75T54E284D</td>
+                          <td>vitamasala1975@mail.it</td>
+                        </tr>
+                        <tr>
+                          <td><a href='#'>3</a></td>
+                          <td>Margaret Zambon</td>
+                          <td><span class='badge badge-danger'>expired</span>
+                          <td>ZMBMGR68B47F788Q</td>
+                          <td>margaretzambon1968@mail.it</td>
+                        </tr>
+                        <tr>
+                          <td><a href='#'>4</a></td>
+                          <td>Piererminio Torino</td>
+                          <td><span class='badge badge-warning'>pending</span>
+                          <td>TRNPRM73E23C972D</td>
+                          <td>piererminiotorino1973@mail.it</td>
+                        </tr>
+                        <tr>
+                          <td><a href='#'>5</a></td>
+                          <td>Vanni Liguori</td>
+                          <td><span class='badge badge-success'>active</span>
+                          <td>LGRVNN57D26A735T</td>
+                          <td>vanniliguori1957@mail.it</td>
+                        </tr>
+                      </tbody>
+                  </table>
+                  <div id="tableUserControl" class="card-footer clearfix">
+                    <a href="javascript:void(0)" class="btn btn-sm btn-info float-left">Place New Order</a>
+                    <a href="javascript:void(0)" class="btn btn-sm btn-secondary float-right">View All Orders</a>
+                  </div>
+                </div>
+                <!-- /.table-responsive -->
+              </div>
+              <!-- /.card-body -->
+
+              <!-- /.card-footer -->
+              <div id="spinnerUserTable" class="overlay dark"><i class="fas fa-2x fa-sync-alt fa-spin"></i></div>
+
+            </div>
+            <!-- /.card -->
+            <div class="row">
+              <div class="col-md-6">
+                <!-- DIRECT CHAT -->
+                <div class="card direct-chat direct-chat-warning">
+                  <div class="card-header">
+                    <h3 class="card-title">Direct Chat</h3>
+
+                    <div class="card-tools">
+                      <span data-toggle="tooltip" title="3 New Messages" class="badge badge-warning">3</span>
+                      <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                      </button>
+                      <button type="button" class="btn btn-tool" data-toggle="tooltip" title="Contacts"
+                              data-widget="chat-pane-toggle">
+                        <i class="fas fa-comments"></i></button>
+                      <button type="button" class="btn btn-tool" data-card-widget="remove"><i class="fas fa-times"></i>
+                      </button>
+                    </div>
+                  </div>
+                  <!-- /.card-header -->
+                  <div class="card-body">
+                    <!-- Conversations are loaded here -->
+                    <div class="direct-chat-messages">
+                      <!-- Message. Default to the left -->
+                      <div class="direct-chat-msg">
+                        <div class="direct-chat-infos clearfix">
+                          <span class="direct-chat-name float-left">Alexander Pierce</span>
+                          <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+                        </div>
+                        <!-- /.direct-chat-infos -->
+                        <img class="direct-chat-img" src="dist/img/user1-128x128.jpg" alt="message user image">
+                        <!-- /.direct-chat-img -->
+                        <div class="direct-chat-text">
+                          Is this template really for free? That's unbelievable!
+                        </div>
+                        <!-- /.direct-chat-text -->
+                      </div>
+                      <!-- /.direct-chat-msg -->
+
+                      <!-- Message to the right -->
+                      <div class="direct-chat-msg right">
+                        <div class="direct-chat-infos clearfix">
+                          <span class="direct-chat-name float-right">Sarah Bullock</span>
+                          <span class="direct-chat-timestamp float-left">23 Jan 2:05 pm</span>
+                        </div>
+                        <!-- /.direct-chat-infos -->
+                        <img class="direct-chat-img" src="dist/img/user3-128x128.jpg" alt="message user image">
+                        <!-- /.direct-chat-img -->
+                        <div class="direct-chat-text">
+                          You better believe it!
+                        </div>
+                        <!-- /.direct-chat-text -->
+                      </div>
+                      <!-- /.direct-chat-msg -->
+
+                      <!-- Message. Default to the left -->
+                      <div class="direct-chat-msg">
+                        <div class="direct-chat-infos clearfix">
+                          <span class="direct-chat-name float-left">Alexander Pierce</span>
+                          <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+                        </div>
+                        <!-- /.direct-chat-infos -->
+                        <img class="direct-chat-img" src="dist/img/user1-128x128.jpg" alt="message user image">
+                        <!-- /.direct-chat-img -->
+                        <div class="direct-chat-text">
+                          Working with AdminLTE on a great new app! Wanna join?
+                        </div>
+                        <!-- /.direct-chat-text -->
+                      </div>
+                      <!-- /.direct-chat-msg -->
+
+                      <!-- Message to the right -->
+                      <div class="direct-chat-msg right">
+                        <div class="direct-chat-infos clearfix">
+                          <span class="direct-chat-name float-right">Sarah Bullock</span>
+                          <span class="direct-chat-timestamp float-left">23 Jan 6:10 pm</span>
+                        </div>
+                        <!-- /.direct-chat-infos -->
+                        <img class="direct-chat-img" src="dist/img/user3-128x128.jpg" alt="message user image">
+                        <!-- /.direct-chat-img -->
+                        <div class="direct-chat-text">
+                          I would love to.
+                        </div>
+                        <!-- /.direct-chat-text -->
+                      </div>
+                      <!-- /.direct-chat-msg -->
+
+                    </div>
+                    <!--/.direct-chat-messages-->
+
+                    <!-- Contacts are loaded here -->
+                    <div class="direct-chat-contacts">
+                      <ul class="contacts-list">
+                        <li>
+                          <a href="#">
+                            <img class="contacts-list-img" src="dist/img/user1-128x128.jpg">
+
+                            <div class="contacts-list-info">
+                              <span class="contacts-list-name">
+                                Count Dracula
+                                <small class="contacts-list-date float-right">2/28/2015</small>
+                              </span>
+                              <span class="contacts-list-msg">How have you been? I was...</span>
+                            </div>
+                            <!-- /.contacts-list-info -->
+                          </a>
+                        </li>
+                        <!-- End Contact Item -->
+                        <li>
+                          <a href="#">
+                            <img class="contacts-list-img" src="dist/img/user7-128x128.jpg">
+
+                            <div class="contacts-list-info">
+                              <span class="contacts-list-name">
+                                Sarah Doe
+                                <small class="contacts-list-date float-right">2/23/2015</small>
+                              </span>
+                              <span class="contacts-list-msg">I will be waiting for...</span>
+                            </div>
+                            <!-- /.contacts-list-info -->
+                          </a>
+                        </li>
+                        <!-- End Contact Item -->
+                        <li>
+                          <a href="#">
+                            <img class="contacts-list-img" src="dist/img/user3-128x128.jpg">
+
+                            <div class="contacts-list-info">
+                              <span class="contacts-list-name">
+                                Nadia Jolie
+                                <small class="contacts-list-date float-right">2/20/2015</small>
+                              </span>
+                              <span class="contacts-list-msg">I'll call you back at...</span>
+                            </div>
+                            <!-- /.contacts-list-info -->
+                          </a>
+                        </li>
+                        <!-- End Contact Item -->
+                        <li>
+                          <a href="#">
+                            <img class="contacts-list-img" src="dist/img/user5-128x128.jpg">
+
+                            <div class="contacts-list-info">
+                              <span class="contacts-list-name">
+                                Nora S. Vans
+                                <small class="contacts-list-date float-right">2/10/2015</small>
+                              </span>
+                              <span class="contacts-list-msg">Where is your new...</span>
+                            </div>
+                            <!-- /.contacts-list-info -->
+                          </a>
+                        </li>
+                        <!-- End Contact Item -->
+                        <li>
+                          <a href="#">
+                            <img class="contacts-list-img" src="dist/img/user6-128x128.jpg">
+
+                            <div class="contacts-list-info">
+                              <span class="contacts-list-name">
+                                John K.
+                                <small class="contacts-list-date float-right">1/27/2015</small>
+                              </span>
+                              <span class="contacts-list-msg">Can I take a look at...</span>
+                            </div>
+                            <!-- /.contacts-list-info -->
+                          </a>
+                        </li>
+                        <!-- End Contact Item -->
+                        <li>
+                          <a href="#">
+                            <img class="contacts-list-img" src="dist/img/user8-128x128.jpg">
+
+                            <div class="contacts-list-info">
+                              <span class="contacts-list-name">
+                                Kenneth M.
+                                <small class="contacts-list-date float-right">1/4/2015</small>
+                              </span>
+                              <span class="contacts-list-msg">Never mind I found...</span>
+                            </div>
+                            <!-- /.contacts-list-info -->
+                          </a>
+                        </li>
+                        <!-- End Contact Item -->
+                      </ul>
+                      <!-- /.contacts-list -->
+                    </div>
+                    <!-- /.direct-chat-pane -->
+                  </div>
+                  <!-- /.card-body -->
+                  <div class="card-footer">
+                    <form action="#" method="post">
+                      <div class="input-group">
+                        <input type="text" name="message" placeholder="Type Message ..." class="form-control">
+                        <span class="input-group-append">
+                          <button type="button" class="btn btn-warning">Send</button>
+                        </span>
+                      </div>
+                    </form>
+                  </div>
+                  <!-- /.card-footer-->
+                </div>
+                <!--/.direct-chat -->
+              </div>
+              <!-- /.col -->
+
+              <div class="col-md-6">
+                <!-- USERS LIST -->
+                <div class="card">
+                  <div class="card-header">
+                    <h3 class="card-title">Latest Members</h3>
+
+                    <div class="card-tools">
+                      <span class="badge badge-danger">8 New Members</span>
+                      <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i>
+                      </button>
+                      <button type="button" class="btn btn-tool" data-card-widget="remove"><i class="fas fa-times"></i>
+                      </button>
+                    </div>
+                  </div>
+                  <!-- /.card-header -->
+                  <div class="card-body p-0">
+                    <ul class="users-list clearfix">
+                      <li>
+                        <img src="dist/img/user1-128x128.jpg" alt="User Image">
+                        <a class="users-list-name" href="#">Alexander Pierce</a>
+                        <span class="users-list-date">Today</span>
+                      </li>
+                      <li>
+                        <img src="dist/img/user8-128x128.jpg" alt="User Image">
+                        <a class="users-list-name" href="#">Norman</a>
+                        <span class="users-list-date">Yesterday</span>
+                      </li>
+                      <li>
+                        <img src="dist/img/user7-128x128.jpg" alt="User Image">
+                        <a class="users-list-name" href="#">Jane</a>
+                        <span class="users-list-date">12 Jan</span>
+                      </li>
+                      <li>
+                        <img src="dist/img/user6-128x128.jpg" alt="User Image">
+                        <a class="users-list-name" href="#">John</a>
+                        <span class="users-list-date">12 Jan</span>
+                      </li>
+                      <li>
+                        <img src="dist/img/user2-160x160.jpg" alt="User Image">
+                        <a class="users-list-name" href="#">Alexander</a>
+                        <span class="users-list-date">13 Jan</span>
+                      </li>
+                      <li>
+                        <img src="dist/img/user5-128x128.jpg" alt="User Image">
+                        <a class="users-list-name" href="#">Sarah</a>
+                        <span class="users-list-date">14 Jan</span>
+                      </li>
+                      <li>
+                        <img src="dist/img/user4-128x128.jpg" alt="User Image">
+                        <a class="users-list-name" href="#">Nora</a>
+                        <span class="users-list-date">15 Jan</span>
+                      </li>
+                      <li>
+                        <img src="dist/img/user3-128x128.jpg" alt="User Image">
+                        <a class="users-list-name" href="#">Nadia</a>
+                        <span class="users-list-date">15 Jan</span>
+                      </li>
+                    </ul>
+                    <!-- /.users-list -->
+                  </div>
+                  <!-- /.card-body -->
+                  <div class="card-footer text-center">
+                    <a href="javascript::">View All Users</a>
+                  </div>
+                  <!-- /.card-footer -->
+                </div>
+                <!--/.card -->
+              </div>
+              <!-- /.col -->
+            </div>
+            <!-- /.row -->
+
+
+          </div>
+          <!-- /.col -->
+
+          <!-- /.col -->
+        </div>
+        <!-- /.row -->
+      </div><!--/. container-fluid -->
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+
+  <!-- Control Sidebar -->
+  <aside class="control-sidebar control-sidebar-dark">
+    <!-- Control sidebar content goes here -->
+  </aside>
+  <!-- /.control-sidebar -->
+
+  <!-- Main Footer -->
+  <footer class="">
+
+  </footer>
+</div>
+<!-- ./wrapper -->
+
+<script>
+  dashboardSripts();
+</script>
+
+<!-- REQUIRED SCRIPTS -->
+<!-- jQuery -->
+<script src="plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap -->
+<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- overlayScrollbars -->
+<script src="plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+<!-- AdminLTE App -->
+<script src="dist/js/adminlte.js"></script>
+
+<!-- OPTIONAL SCRIPTS -->
+<script src="dist/js/demo.js"></script>
+
+<!-- PAGE PLUGINS -->
+<!-- jQuery Mapael -->
+<script src="plugins/jquery-mousewheel/jquery.mousewheel.js"></script>
+<script src="plugins/raphael/raphael.min.js"></script>
+<script src="plugins/jquery-mapael/jquery.mapael.min.js"></script>
+<script src="plugins/jquery-mapael/maps/usa_states.min.js"></script>
+
+<!-- ChartJS -->
+<script src="plugins/chart.js/Chart.min.js"></script>
+
+<!-- PAGE SCRIPTS -->
+
+<script src="plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- AdminLTE App -->
+<script src="dist/js/adminlte.min.js"></script>
+<!-- AdminLTE for demo purposes -->
+<script src="dist/js/demo.js"></script>
+<!-- SweetAlert2 -->
+<script src="plugins/sweetalert2/sweetalert2.min.js"></script>
+
+</body>
+</html>

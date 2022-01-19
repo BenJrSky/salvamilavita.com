@@ -1,0 +1,300 @@
+
+
+body, html {
+    height: 100%;
+  }
+
+  .bgAffiliation {
+    background-image: url("../img/affiliation.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .bgAffiliationLogin{
+    background-image: url("../img/affiliation_login.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.bgLogin {
+    background-image: url("../img/login.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .bgIndex {
+    background-image: url("../img/index.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+
+  .bgRegister {
+    background-image: url("../img/register.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .bgInfo{
+    background-image: url("../img/info.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+
+  .trasparent{
+    background: none;
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+
+  .containerAlert {
+    display: none;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999999999;
+    overflow: hidden;
+    background-color: rgba(200, 200, 200, .5);
+  }
+
+  .loader {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -20px;
+  }
+
+  .showAlert {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -120px;
+    margin-top: -50px;
+  }
+
+.tHalf{
+  margin-top: 30% !important;
+}
+
+.capital{
+  text-transform: lowercase;
+  text-transform: capitalize;
+}
+
+.textLowercase{
+  text-transform: lowercase;
+}
+
+.textUppercase{
+  text-transform: uppercase;
+}
+
+.hinerit{
+  display: inherit !important;
+}
+
+.fill {
+  width: 100%;
+  height: 100%;
+}
+
+.textSmall{
+  font-size: 60%;
+  font-weight: 300;
+}
+
+.hiddenInput{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+#cropModal{
+  display: none;
+  overflow: hidden;
+}
+
+#cropModalPost{
+  display: none;
+  overflow: hidden;
+}
+
+.cardImg {
+  border: none;
+  margin: 0 auto;
+  padding: 3px;
+  width: 120px;
+}
+
+.cBlue{
+  color:#007bff;
+}
+
+.alnCenter{
+  vertical-align: middle;
+}
+
+.iB{
+  font-size: 1.5em;
+}
+
+.leadMd{
+  font-size: 1.8rem;
+  font-weight: 300;
+}
+
+.iconPrivacy{
+  width: 50px;
+  margin-left: 30px;
+}
+
+.inputIcon{
+  color: #777 !important;
+  background-color:none !important;
+}
+
+.bg-none{
+  background: none;
+}
+
+.w-100{
+  width: 100%;
+}
+
+.bodyParts{
+  border-color: black;
+  fill: #72B8FC;cursor: pointer;
+}
+
+area.bodyParts{
+  fill: black;
+  stroke:gray; /* Replace with none if you like*/
+  stroke-width: 4;
+  cursor: pointer;
+}
+
+area.bodyParts:hover{
+  stroke:black;
+}
+
+.trasparent{
+  background: none;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.x-delete{
+  display: none;
+  position: absolute;
+  background-color: #dc3545;
+  color: white;
+  width: 20px;
+  height: 20px;
+  top: 0px;
+  right: 8px;
+}
+
+.x-delete *{
+  position: absolute;
+  margin: auto;
+  padding: 0px;
+  line-height: 20px;
+  width: 20px;
+  text-align: center;
+}
+
+.img-user-post {
+  height: 30px;
+}
+
+.img-user-message {
+  height: 50px;
+}
+
+.px-h-50 {
+  height: 50px;
+}
+
+.px-h-80 {
+  height: 80px;
+}
+
+.hideComment{
+  height: 40px;
+  max-height: 40px;
+}
+
+.showComment{
+  height: 300px;
+  max-height: 300px;
+}
+
+.comment-item{
+  box-shadow: none;
+  width: 95%;
+  margin: auto;
+  background: #f8f9fa;
+  border-bottom: 1px solid #dee2e6;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.time-comment{
+  color: #999;
+  font-size: 12px;
+  padding: 5px;
+  float: right; 
+  text-align: right;
+}
+
+.social-nav{
+  padding: 0px;
+}
+
+.h-400{
+  height: 400px;
+}
+
+.fdWarning{
+  background-color: #3c8dbc;
+  color:white;
+  line-height: 2;
+}
+
+.fdDanger{
+  background-color: #f39c12;
+  color:white;
+  line-height: 2;
+}
+
+.fdSuccess{
+  background-color: #00a65a;
+  color:white;
+  line-height: 2;
+}
+
+.badge .close {
+  margin-left: 5px;
+  right: 0px;
+}
+
+@media (max-width: 768px){
+
+    .post-container{
+      margin: 0px !important;
+      padding: 0px !important;
+    }
+
+}
